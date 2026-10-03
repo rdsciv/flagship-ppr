@@ -38,6 +38,8 @@ jobs:
           git commit -m "Refresh dynasty board"
           git push
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - name: Stage site
         run: |
           mkdir -p _site/data
