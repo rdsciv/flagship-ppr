@@ -1,27 +1,20 @@
 name: Daily board
 
 on:
-  push:
-    branches: [main]
   schedule:
     - cron: "15 13 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
-  group: pages
+  group: refresh-board
   cancel-in-progress: false
 
 jobs:
-  publish:
+  refresh:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -37,16 +30,3 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -m "Refresh dynasty board"
           git push
-      - uses: actions/configure-pages@v5
-        with:
-          enablement: true
-      - name: Stage site
-        run: |
-          mkdir -p _site/data
-          cp index.html app.js styles.css favicon.svg .nojekyll _site/
-          cp data/board.json _site/data/board.json
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-      - id: deployment
-        uses: actions/deploy-pages@v4

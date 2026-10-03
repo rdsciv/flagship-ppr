@@ -26,4 +26,10 @@ Defaults are a 13.25% sell fee and $29 all-in grading. Both are editable on the 
 
 Add a card by appending an object to `data/card-book.json` (`player`, `product`, `raw`, `psa9`, `psa10`, and optional `gemRate` / `gems` / `pop`) and pushing. `product` is `prizm-silver`, `optic-holo`, or `contenders-silver-auto`.
 
+Pages is the site. After this repo exists, turn it on once:
+
+**Settings → Pages → Build and deployment → Deploy from a branch → `main` → `/ (root)` → Save.**
+
+The address is `https://rdsciv.github.io/flagship-ppr/`. Every push to `main`, including the morning rank refresh, republishes it.
+
 Ranks are trade-derived values from FantasyCalc. Prices are SportsCardsPro sold guides. This is not a live bid and not advice.
