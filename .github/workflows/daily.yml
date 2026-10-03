@@ -1,0 +1,50 @@
+name: Daily board
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "15 13 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Refresh dynasty ranks
+        run: node scripts/refresh-board.mjs
+      - name: Commit refreshed ranks
+        run: |
+          git config user.name "flagship-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet && exit 0
+          git commit -m "Refresh dynasty board"
+          git push
+      - uses: actions/configure-pages@v5
+      - name: Stage site
+        run: |
+          mkdir -p _site/data
+          cp index.html app.js styles.css favicon.svg .nojekyll _site/
+          cp data/board.json _site/data/board.json
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4

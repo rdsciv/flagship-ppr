@@ -1,0 +1,71 @@
+:root {
+  --bg: #12100c;
+  --surface: #1c1914;
+  --fg: #f3efe6;
+  --muted: #a3988c;
+  --brass: #e0b15a;
+  --ink: #2a2112;
+  --profit: #8fceab;
+  --loss: #e59284;
+  --line: #343026;
+  color-scheme: dark;
+  font-family: "Outfit", "Avenir Next", "Segoe UI", sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); }
+button, input, select { font: inherit; color: inherit; }
+button { cursor: pointer; }
+.wrap { max-width: 72rem; margin: 0 auto; padding: 1.5rem 1rem 4rem; }
+.kicker { letter-spacing: 0.22em; text-transform: uppercase; color: var(--brass); font-size: 0.75rem; margin: 0; }
+h1 { font-family: Fraunces, Georgia, serif; font-weight: 500; font-style: italic; font-size: clamp(2.4rem, 6vw, 3.4rem); margin: 0.2rem 0; }
+.lede, .muted, .foot { color: var(--muted); }
+.lede { max-width: 40rem; line-height: 1.5; }
+.head { display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap; border-bottom: 1px solid var(--line); padding-bottom: 1.25rem; }
+.assumptions, .kpis, .filters, .slots { display: grid; gap: 0.6rem; }
+.assumptions, .kpis { grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr)); margin-top: 1rem; }
+label.field { display: flex; flex-direction: column; gap: 0.25rem; font-size: 0.75rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
+label.field span.box, .search { display: flex; align-items: center; height: 2.75rem; border: 1px solid var(--line); background: var(--bg); padding: 0 0.75rem; }
+input, select { background: transparent; border: 0; outline: none; width: 100%; }
+input[type="number"] { width: 100%; }
+.kpis { gap: 1px; background: var(--line); }
+.kpi { background: var(--bg); padding: 0.9rem 1rem; }
+.kpi strong { display: block; font-family: Fraunces, Georgia, serif; font-size: 1.8rem; font-weight: 500; }
+.toolbar { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0; }
+.search { flex: 1; min-width: 12rem; background: var(--surface); }
+select.sort { height: 2.75rem; border: 1px solid var(--line); background: var(--surface); padding: 0 0.6rem; }
+.chip { height: 2.75rem; border: 1px solid var(--line); background: var(--surface); padding: 0 0.75rem; }
+.chip.on { background: var(--brass); color: var(--ink); border-color: var(--brass); }
+.row { width: 100%; text-align: left; background: transparent; border: 0; border-bottom: 1px solid var(--line); padding: 0.9rem 0; display: grid; gap: 0.7rem; }
+@media (min-width: 800px) {
+  .row { grid-template-columns: 4.5rem minmax(0, 1.2fr) minmax(0, 1.5fr); align-items: center; }
+}
+.rank { font-family: Fraunces, Georgia, serif; color: var(--brass); font-size: 1.5rem; }
+.name { font-family: Fraunces, Georgia, serif; font-size: 1.25rem; }
+.slots { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.slot, .price { border: 1px solid var(--line); padding: 0.45rem 0.5rem; min-width: 0; }
+.slot.hot { border-color: var(--brass); }
+.slot p, .price p { margin: 0; }
+.small { font-size: 0.75rem; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.profit { color: var(--profit); }
+.loss { color: var(--loss); }
+.nums { font-variant-numeric: tabular-nums; }
+.sheet { position: fixed; inset: 0 0 0 auto; width: min(32rem, 100%); background: var(--surface); border-left: 1px solid var(--line); overflow: auto; padding: 1.2rem; z-index: 5; }
+.mask { position: fixed; inset: 0; background: rgba(18, 16, 12, 0.8); z-index: 4; }
+.bar { height: 0.35rem; background: #262119; margin-top: 0.4rem; }
+.bar > i { display: block; height: 100%; }
+.bar .profit { background: var(--profit); }
+.bar .loss { background: var(--loss); }
+.grid3, .grid2 { display: grid; gap: 0.5rem; }
+.grid3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.grid2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.close { width: 2.75rem; height: 2.75rem; border: 1px solid var(--line); background: transparent; }
+.top { display: flex; justify-content: space-between; gap: 1rem; }
+.cardbtn { width: 100%; text-align: left; background: transparent; margin-bottom: 0.4rem; }
+.cardbtn.on { border-color: var(--brass); background: var(--bg); }
+.note { border: 1px solid var(--line); background: var(--bg); padding: 0.75rem; }
+.foot { font-size: 0.75rem; line-height: 1.5; margin-top: 1.5rem; }
+input[type="range"] { width: 100%; accent-color: var(--brass); }
+.linkish { background: none; border: 0; color: var(--brass); padding: 0; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
