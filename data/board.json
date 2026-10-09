@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-08T19:17:51.459Z",
-  "rankingsAsOf": "2026-10-08",
+  "updatedAt": "2026-10-09T18:50:52.642Z",
+  "rankingsAsOf": "2026-10-09",
   "pricesAsOf": "2026-10-03",
-  "weekBaseline": null,
+  "weekBaseline": "2026-10-03",
   "format": "Dynasty · 1QB · 12 teams · full PPR",
   "priors": {
     "prizm-silver": 0.22,
@@ -25,10 +25,10 @@
       "draftYear": 2023,
       "draftRound": 1,
       "draftPick": 12,
-      "value": 10815,
-      "trend30": 26,
+      "value": 10752,
+      "trend30": 15,
       "posRank": 1,
-      "rankDelta": null,
+      "rankDelta": 0,
       "inTop100": true,
       "cards": [
         {
@@ -87,10 +87,10 @@
       "draftYear": 2023,
       "draftRound": 1,
       "draftPick": 8,
-      "value": 10619,
-      "trend30": 96,
+      "value": 10622,
+      "trend30": -80,
       "posRank": 2,
-      "rankDelta": null,
+      "rankDelta": 0,
       "inTop100": true,
       "cards": [
         {
@@ -149,10 +149,10 @@
       "draftYear": 2023,
       "draftRound": 1,
       "draftPick": 20,
-      "value": 9636,
-      "trend30": 1328,
+      "value": 9745,
+      "trend30": 1156,
       "posRank": 1,
-      "rankDelta": null,
+      "rankDelta": 0,
       "inTop100": true,
       "cards": [
         {
@@ -211,10 +211,10 @@
       "draftYear": 2021,
       "draftRound": 1,
       "draftPick": 5,
-      "value": 8179,
-      "trend30": -1254,
+      "value": 8096,
+      "trend30": -1306,
       "posRank": 2,
-      "rankDelta": null,
+      "rankDelta": 0,
       "inTop100": true,
       "cards": [
         {
@@ -242,44 +242,6 @@
     },
     {
       "rank": 5,
-      "name": "Amon-Ra St. Brown",
-      "pos": "WR",
-      "team": "DET",
-      "age": 26.9,
-      "draftYear": 2021,
-      "draftRound": 4,
-      "draftPick": 7,
-      "value": 7489,
-      "trend30": 265,
-      "posRank": 3,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "out-of-book",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "name": "Puka Nacua",
       "pos": "WR",
       "team": "LAR",
@@ -287,10 +249,10 @@
       "draftYear": 2023,
       "draftRound": 5,
       "draftPick": 42,
-      "value": 7381,
-      "trend30": -724,
-      "posRank": 4,
-      "rankDelta": null,
+      "value": 7255,
+      "trend30": -883,
+      "posRank": 3,
+      "rankDelta": 0,
       "inTop100": true,
       "cards": [
         {
@@ -341,6 +303,44 @@
       ]
     },
     {
+      "rank": 6,
+      "name": "Amon-Ra St. Brown",
+      "pos": "WR",
+      "team": "DET",
+      "age": 26.9,
+      "draftYear": 2021,
+      "draftRound": 4,
+      "draftPick": 7,
+      "value": 7245,
+      "trend30": 215,
+      "posRank": 4,
+      "rankDelta": 0,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
       "rank": 7,
       "name": "Kenneth Walker",
       "pos": "RB",
@@ -349,10 +349,10 @@
       "draftYear": 2022,
       "draftRound": 2,
       "draftPick": 9,
-      "value": 7086,
-      "trend30": 2361,
+      "value": 7163,
+      "trend30": 2302,
       "posRank": 3,
-      "rankDelta": null,
+      "rankDelta": 2,
       "inTop100": true,
       "cards": [
         {
@@ -380,44 +380,6 @@
     },
     {
       "rank": 8,
-      "name": "CeeDee Lamb",
-      "pos": "WR",
-      "team": "DAL",
-      "age": 27.5,
-      "draftYear": 2020,
-      "draftRound": 1,
-      "draftPick": 17,
-      "value": 6898,
-      "trend30": 804,
-      "posRank": 5,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "out-of-book",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "name": "Brock Bowers",
       "pos": "TE",
       "team": "LV",
@@ -425,10 +387,10 @@
       "draftYear": 2024,
       "draftRound": 1,
       "draftPick": 13,
-      "value": 6792,
-      "trend30": -534,
+      "value": 7076,
+      "trend30": 321,
       "posRank": 1,
-      "rankDelta": null,
+      "rankDelta": 2,
       "inTop100": true,
       "cards": [
         {
@@ -479,6 +441,44 @@
       ]
     },
     {
+      "rank": 9,
+      "name": "CeeDee Lamb",
+      "pos": "WR",
+      "team": "DAL",
+      "age": 27.5,
+      "draftYear": 2020,
+      "draftRound": 1,
+      "draftPick": 17,
+      "value": 6971,
+      "trend30": 903,
+      "posRank": 5,
+      "rankDelta": 3,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
       "rank": 10,
       "name": "Ashton Jeanty",
       "pos": "RB",
@@ -487,10 +487,10 @@
       "draftYear": 2025,
       "draftRound": 1,
       "draftPick": 6,
-      "value": 6704,
-      "trend30": 22,
+      "value": 6655,
+      "trend30": -174,
       "posRank": 4,
-      "rankDelta": null,
+      "rankDelta": -3,
       "inTop100": true,
       "cards": [
         {
@@ -549,10 +549,10 @@
       "draftYear": 2026,
       "draftRound": 1,
       "draftPick": 3,
-      "value": 6292,
-      "trend30": -214,
+      "value": 6495,
+      "trend30": -254,
       "posRank": 5,
-      "rankDelta": null,
+      "rankDelta": -3,
       "inTop100": true,
       "cards": [
         {
@@ -587,10 +587,10 @@
       "draftYear": 2020,
       "draftRound": 2,
       "draftPick": 9,
-      "value": 6031,
-      "trend30": 20,
+      "value": 6152,
+      "trend30": 102,
       "posRank": 6,
-      "rankDelta": null,
+      "rankDelta": -1,
       "inTop100": true,
       "cards": [
         {
@@ -625,10 +625,10 @@
       "draftYear": 2022,
       "draftRound": 2,
       "draftPick": 23,
-      "value": 5937,
-      "trend30": 285,
+      "value": 6004,
+      "trend30": 270,
       "posRank": 2,
-      "rankDelta": null,
+      "rankDelta": 0,
       "inTop100": true,
       "cards": [
         {
@@ -663,10 +663,10 @@
       "draftYear": 2020,
       "draftRound": 1,
       "draftPick": 22,
-      "value": 5582,
-      "trend30": -1070,
+      "value": 5971,
+      "trend30": -679,
       "posRank": 6,
-      "rankDelta": null,
+      "rankDelta": 0,
       "inTop100": true,
       "cards": [
         {
@@ -701,10 +701,10 @@
       "draftYear": 2018,
       "draftRound": 1,
       "draftPick": 7,
-      "value": 5558,
-      "trend30": 180,
+      "value": 5570,
+      "trend30": 135,
       "posRank": 1,
-      "rankDelta": null,
+      "rankDelta": 1,
       "inTop100": true,
       "cards": [
         {
@@ -732,17 +732,17 @@
     },
     {
       "rank": 16,
-      "name": "James Cook",
-      "pos": "RB",
-      "team": "BUF",
-      "age": 27,
+      "name": "Drake London",
+      "pos": "WR",
+      "team": "ATL",
+      "age": 25.2,
       "draftYear": 2022,
-      "draftRound": 2,
-      "draftPick": 31,
-      "value": 5524,
-      "trend30": -454,
+      "draftRound": 1,
+      "draftPick": 8,
+      "value": 5486,
+      "trend30": 396,
       "posRank": 7,
-      "rankDelta": null,
+      "rankDelta": 2,
       "inTop100": true,
       "cards": [
         {
@@ -770,17 +770,17 @@
     },
     {
       "rank": 17,
-      "name": "Drake London",
-      "pos": "WR",
-      "team": "ATL",
-      "age": 25.2,
+      "name": "James Cook",
+      "pos": "RB",
+      "team": "BUF",
+      "age": 27,
       "draftYear": 2022,
-      "draftRound": 1,
-      "draftPick": 8,
-      "value": 5398,
-      "trend30": 377,
+      "draftRound": 2,
+      "draftPick": 31,
+      "value": 5365,
+      "trend30": -693,
       "posRank": 7,
-      "rankDelta": null,
+      "rankDelta": -2,
       "inTop100": true,
       "cards": [
         {
@@ -815,10 +815,10 @@
       "draftYear": 2024,
       "draftRound": 1,
       "draftPick": 6,
-      "value": 5375,
-      "trend30": -839,
+      "value": 5263,
+      "trend30": -1057,
       "posRank": 8,
-      "rankDelta": null,
+      "rankDelta": 1,
       "inTop100": true,
       "cards": [
         {
@@ -877,10 +877,10 @@
       "draftYear": 2022,
       "draftRound": 1,
       "draftPick": 11,
-      "value": 5148,
-      "trend30": 723,
+      "value": 5100,
+      "trend30": 825,
       "posRank": 9,
-      "rankDelta": null,
+      "rankDelta": -2,
       "inTop100": true,
       "cards": [
         {
@@ -915,10 +915,10 @@
       "draftYear": 2025,
       "draftRound": 1,
       "draftPick": 8,
-      "value": 4984,
-      "trend30": 603,
+      "value": 4962,
+      "trend30": 571,
       "posRank": 10,
-      "rankDelta": null,
+      "rankDelta": 8,
       "inTop100": true,
       "cards": [
         {
@@ -977,10 +977,10 @@
       "draftYear": 2023,
       "draftRound": 1,
       "draftPick": 22,
-      "value": 4638,
-      "trend30": 879,
+      "value": 4716,
+      "trend30": 1065,
       "posRank": 11,
-      "rankDelta": null,
+      "rankDelta": 4,
       "inTop100": true,
       "cards": [
         {
@@ -1020,17 +1020,17 @@
     },
     {
       "rank": 22,
-      "name": "Kyren Williams",
-      "pos": "RB",
-      "team": "LAR",
-      "age": 26.1,
-      "draftYear": 2022,
-      "draftRound": 5,
-      "draftPick": 21,
-      "value": 4634,
-      "trend30": 862,
-      "posRank": 8,
-      "rankDelta": null,
+      "name": "Nico Collins",
+      "pos": "WR",
+      "team": "HOU",
+      "age": 27.5,
+      "draftYear": 2021,
+      "draftRound": 3,
+      "draftPick": 25,
+      "value": 4657,
+      "trend30": 293,
+      "posRank": 12,
+      "rankDelta": 4,
       "inTop100": true,
       "cards": [
         {
@@ -1058,17 +1058,17 @@
     },
     {
       "rank": 23,
-      "name": "Christian McCaffrey",
+      "name": "Kyren Williams",
       "pos": "RB",
-      "team": "SF",
-      "age": 30.3,
-      "draftYear": 2017,
-      "draftRound": 1,
-      "draftPick": 8,
-      "value": 4600,
-      "trend30": -635,
-      "posRank": 9,
-      "rankDelta": null,
+      "team": "LAR",
+      "age": 26.1,
+      "draftYear": 2022,
+      "draftRound": 5,
+      "draftPick": 21,
+      "value": 4554,
+      "trend30": 769,
+      "posRank": 8,
+      "rankDelta": 8,
       "inTop100": true,
       "cards": [
         {
@@ -1096,55 +1096,55 @@
     },
     {
       "rank": 24,
-      "name": "Nico Collins",
-      "pos": "WR",
-      "team": "HOU",
-      "age": 27.5,
-      "draftYear": 2021,
-      "draftRound": 3,
-      "draftPick": 25,
-      "value": 4472,
-      "trend30": -20,
-      "posRank": 12,
-      "rankDelta": null,
+      "name": "Chase Brown",
+      "pos": "RB",
+      "team": "CIN",
+      "age": 26.5,
+      "draftYear": 2023,
+      "draftRound": 5,
+      "draftPick": 28,
+      "value": 4463,
+      "trend30": -373,
+      "posRank": 9,
+      "rankDelta": -1,
       "inTop100": true,
       "cards": [
         {
           "product": "prizm-silver",
           "label": "Prizm Silver",
           "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
+          "status": "missing",
           "comp": null
         },
         {
           "product": "optic-holo",
           "label": "Optic Holo",
           "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
+          "status": "missing",
           "comp": null
         },
         {
           "product": "contenders-silver-auto",
           "label": "Contenders Auto",
           "blurb": "Optic silver autograph",
-          "status": "out-of-book",
+          "status": "missing",
           "comp": null
         }
       ]
     },
     {
       "rank": 25,
-      "name": "Garrett Wilson",
-      "pos": "WR",
-      "team": "NYJ",
-      "age": 26.2,
-      "draftYear": 2022,
+      "name": "Christian McCaffrey",
+      "pos": "RB",
+      "team": "SF",
+      "age": 30.3,
+      "draftYear": 2017,
       "draftRound": 1,
-      "draftPick": 10,
-      "value": 4305,
-      "trend30": 462,
-      "posRank": 13,
-      "rankDelta": null,
+      "draftPick": 8,
+      "value": 4339,
+      "trend30": -657,
+      "posRank": 10,
+      "rankDelta": -5,
       "inTop100": true,
       "cards": [
         {
@@ -1172,38 +1172,38 @@
     },
     {
       "rank": 26,
-      "name": "Chase Brown",
-      "pos": "RB",
-      "team": "CIN",
-      "age": 26.5,
-      "draftYear": 2023,
-      "draftRound": 5,
-      "draftPick": 28,
-      "value": 4287,
-      "trend30": -507,
-      "posRank": 10,
-      "rankDelta": null,
+      "name": "Garrett Wilson",
+      "pos": "WR",
+      "team": "NYJ",
+      "age": 26.2,
+      "draftYear": 2022,
+      "draftRound": 1,
+      "draftPick": 10,
+      "value": 4220,
+      "trend30": 225,
+      "posRank": 13,
+      "rankDelta": -5,
       "inTop100": true,
       "cards": [
         {
           "product": "prizm-silver",
           "label": "Prizm Silver",
           "blurb": "Rookie Silver Prizm",
-          "status": "missing",
+          "status": "out-of-book",
           "comp": null
         },
         {
           "product": "optic-holo",
           "label": "Optic Holo",
           "blurb": "Holo Rated Rookie",
-          "status": "missing",
+          "status": "out-of-book",
           "comp": null
         },
         {
           "product": "contenders-silver-auto",
           "label": "Contenders Auto",
           "blurb": "Optic silver autograph",
-          "status": "missing",
+          "status": "out-of-book",
           "comp": null
         }
       ]
@@ -1217,10 +1217,10 @@
       "draftYear": 2023,
       "draftRound": 3,
       "draftPick": 21,
-      "value": 4268,
-      "trend30": -2290,
+      "value": 4194,
+      "trend30": -2060,
       "posRank": 11,
-      "rankDelta": null,
+      "rankDelta": -5,
       "inTop100": true,
       "cards": [
         {
@@ -1255,10 +1255,10 @@
       "draftYear": 2021,
       "draftRound": 2,
       "draftPick": 3,
-      "value": 3961,
-      "trend30": 412,
+      "value": 4079,
+      "trend30": 500,
       "posRank": 12,
-      "rankDelta": null,
+      "rankDelta": 8,
       "inTop100": true,
       "cards": [
         {
@@ -1286,44 +1286,6 @@
     },
     {
       "rank": 29,
-      "name": "Derrick Henry",
-      "pos": "RB",
-      "team": "BAL",
-      "age": 32.7,
-      "draftYear": 2016,
-      "draftRound": 2,
-      "draftPick": 14,
-      "value": 3954,
-      "trend30": 412,
-      "posRank": 13,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "out-of-book",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 30,
       "name": "Omarion Hampton",
       "pos": "RB",
       "team": "LAC",
@@ -1331,10 +1293,10 @@
       "draftYear": 2025,
       "draftRound": 1,
       "draftPick": 22,
-      "value": 3821,
-      "trend30": -2377,
-      "posRank": 14,
-      "rankDelta": null,
+      "value": 4014,
+      "trend30": -2450,
+      "posRank": 13,
+      "rankDelta": -5,
       "inTop100": true,
       "cards": [
         {
@@ -1385,18 +1347,56 @@
       ]
     },
     {
+      "rank": 30,
+      "name": "Derrick Henry",
+      "pos": "RB",
+      "team": "BAL",
+      "age": 32.7,
+      "draftYear": 2016,
+      "draftRound": 2,
+      "draftPick": 14,
+      "value": 3741,
+      "trend30": 337,
+      "posRank": 14,
+      "rankDelta": 0,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
       "rank": 31,
-      "name": "George Pickens",
-      "pos": "WR",
-      "team": "DAL",
-      "age": 25.6,
+      "name": "Breece Hall",
+      "pos": "RB",
+      "team": "NYJ",
+      "age": 25.3,
       "draftYear": 2022,
       "draftRound": 2,
-      "draftPick": 20,
-      "value": 3781,
-      "trend30": -957,
-      "posRank": 14,
-      "rankDelta": null,
+      "draftPick": 4,
+      "value": 3724,
+      "trend30": -322,
+      "posRank": 15,
+      "rankDelta": 1,
       "inTop100": true,
       "cards": [
         {
@@ -1424,17 +1424,17 @@
     },
     {
       "rank": 32,
-      "name": "Breece Hall",
-      "pos": "RB",
-      "team": "NYJ",
-      "age": 25.3,
+      "name": "George Pickens",
+      "pos": "WR",
+      "team": "DAL",
+      "age": 25.6,
       "draftYear": 2022,
       "draftRound": 2,
-      "draftPick": 4,
-      "value": 3646,
-      "trend30": -460,
-      "posRank": 15,
-      "rankDelta": null,
+      "draftPick": 20,
+      "value": 3661,
+      "trend30": -1258,
+      "posRank": 14,
+      "rankDelta": -5,
       "inTop100": true,
       "cards": [
         {
@@ -1462,44 +1462,6 @@
     },
     {
       "rank": 33,
-      "name": "Tyler Warren",
-      "pos": "TE",
-      "team": "IND",
-      "age": 24.3,
-      "draftYear": 2025,
-      "draftRound": 1,
-      "draftPick": 14,
-      "value": 3573,
-      "trend30": -675,
-      "posRank": 3,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "missing",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 34,
       "name": "Lamar Jackson",
       "pos": "QB",
       "team": "BAL",
@@ -1507,10 +1469,10 @@
       "draftYear": 2018,
       "draftRound": 1,
       "draftPick": 32,
-      "value": 3510,
-      "trend30": -485,
+      "value": 3575,
+      "trend30": -476,
       "posRank": 2,
-      "rankDelta": null,
+      "rankDelta": -4,
       "inTop100": true,
       "cards": [
         {
@@ -1537,7 +1499,7 @@
       ]
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "Caleb Williams",
       "pos": "QB",
       "team": "CHI",
@@ -1545,10 +1507,10 @@
       "draftYear": 2024,
       "draftRound": 1,
       "draftPick": 1,
-      "value": 3488,
-      "trend30": -445,
+      "value": 3524,
+      "trend30": -327,
       "posRank": 3,
-      "rankDelta": null,
+      "rankDelta": 3,
       "inTop100": true,
       "cards": [
         {
@@ -1599,7 +1561,7 @@
       ]
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "Carnell Tate",
       "pos": "WR",
       "team": "TEN",
@@ -1607,10 +1569,10 @@
       "draftYear": 2026,
       "draftRound": 1,
       "draftPick": 4,
-      "value": 3435,
-      "trend30": -267,
+      "value": 3512,
+      "trend30": -212,
       "posRank": 15,
-      "rankDelta": null,
+      "rankDelta": 17,
       "inTop100": true,
       "cards": [
         {
@@ -1637,6 +1599,44 @@
       ]
     },
     {
+      "rank": 36,
+      "name": "Tyler Warren",
+      "pos": "TE",
+      "team": "IND",
+      "age": 24.3,
+      "draftYear": 2025,
+      "draftRound": 1,
+      "draftPick": 14,
+      "value": 3509,
+      "trend30": -879,
+      "posRank": 3,
+      "rankDelta": -2,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "missing",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "missing",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "missing",
+          "comp": null
+        }
+      ]
+    },
+    {
       "rank": 37,
       "name": "Colston Loveland",
       "pos": "TE",
@@ -1645,10 +1645,10 @@
       "draftYear": 2025,
       "draftRound": 1,
       "draftPick": 10,
-      "value": 3390,
-      "trend30": -1528,
+      "value": 3467,
+      "trend30": -1323,
       "posRank": 4,
-      "rankDelta": null,
+      "rankDelta": 3,
       "inTop100": true,
       "cards": [
         {
@@ -1700,44 +1700,6 @@
     },
     {
       "rank": 38,
-      "name": "Parker Washington",
-      "pos": "WR",
-      "team": "JAX",
-      "age": 24.5,
-      "draftYear": 2023,
-      "draftRound": 6,
-      "draftPick": 8,
-      "value": 3377,
-      "trend30": 777,
-      "posRank": 16,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "missing",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 39,
       "name": "Quinshon Judkins",
       "pos": "RB",
       "team": "CLE",
@@ -1745,10 +1707,10 @@
       "draftYear": 2025,
       "draftRound": 2,
       "draftPick": 4,
-      "value": 3321,
-      "trend30": -510,
+      "value": 3444,
+      "trend30": -449,
       "posRank": 16,
-      "rankDelta": null,
+      "rankDelta": 7,
       "inTop100": true,
       "cards": [
         {
@@ -1799,18 +1761,56 @@
       ]
     },
     {
+      "rank": 39,
+      "name": "Tee Higgins",
+      "pos": "WR",
+      "team": "CIN",
+      "age": 27.7,
+      "draftYear": 2020,
+      "draftRound": 2,
+      "draftPick": 1,
+      "value": 3426,
+      "trend30": 227,
+      "posRank": 16,
+      "rankDelta": 10,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
       "rank": 40,
-      "name": "Bhayshul Tuten",
-      "pos": "RB",
+      "name": "Parker Washington",
+      "pos": "WR",
       "team": "JAX",
-      "age": 23.6,
-      "draftYear": 2025,
-      "draftRound": 4,
-      "draftPick": 2,
-      "value": 3306,
-      "trend30": 537,
+      "age": 24.5,
+      "draftYear": 2023,
+      "draftRound": 6,
+      "draftPick": 8,
+      "value": 3326,
+      "trend30": 607,
       "posRank": 17,
-      "rankDelta": null,
+      "rankDelta": -7,
       "inTop100": true,
       "cards": [
         {
@@ -1838,17 +1838,17 @@
     },
     {
       "rank": 41,
-      "name": "Tee Higgins",
+      "name": "DeVonta Smith",
       "pos": "WR",
-      "team": "CIN",
-      "age": 27.7,
-      "draftYear": 2020,
-      "draftRound": 2,
-      "draftPick": 1,
-      "value": 3239,
-      "trend30": 85,
-      "posRank": 17,
-      "rankDelta": null,
+      "team": "PHI",
+      "age": 27.9,
+      "draftYear": 2021,
+      "draftRound": 1,
+      "draftPick": 10,
+      "value": 3316,
+      "trend30": -409,
+      "posRank": 18,
+      "rankDelta": -3,
       "inTop100": true,
       "cards": [
         {
@@ -1876,6 +1876,94 @@
     },
     {
       "rank": 42,
+      "name": "Luther Burden",
+      "pos": "WR",
+      "team": "CHI",
+      "age": 22.8,
+      "draftYear": 2025,
+      "draftRound": 2,
+      "draftPick": 7,
+      "value": 3272,
+      "trend30": -251,
+      "posRank": 19,
+      "rankDelta": 13,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "comp",
+          "comp": {
+            "year": 2025,
+            "set": "2025 Panini Prizm",
+            "parallel": "Silver",
+            "number": "331",
+            "raw": 7.79,
+            "psa9": 45,
+            "psa10": 230.37,
+            "gemRate": null,
+            "gems": null,
+            "pop": null,
+            "popAsOf": null
+          }
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "missing",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "missing",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "name": "Bhayshul Tuten",
+      "pos": "RB",
+      "team": "JAX",
+      "age": 23.6,
+      "draftYear": 2025,
+      "draftRound": 4,
+      "draftPick": 2,
+      "value": 3265,
+      "trend30": 726,
+      "posRank": 17,
+      "rankDelta": 8,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "missing",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "missing",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "missing",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 44,
       "name": "Joe Burrow",
       "pos": "QB",
       "team": "CIN",
@@ -1884,9 +1972,9 @@
       "draftRound": 1,
       "draftPick": 1,
       "value": 3225,
-      "trend30": -308,
+      "trend30": -357,
       "posRank": 4,
-      "rankDelta": null,
+      "rankDelta": 4,
       "inTop100": true,
       "cards": [
         {
@@ -1913,7 +2001,57 @@
       ]
     },
     {
-      "rank": 43,
+      "rank": 45,
+      "name": "Bucky Irving",
+      "pos": "RB",
+      "team": "TB",
+      "age": 24.1,
+      "draftYear": 2024,
+      "draftRound": 4,
+      "draftPick": 25,
+      "value": 3151,
+      "trend30": -88,
+      "posRank": 18,
+      "rankDelta": -4,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "comp",
+          "comp": {
+            "year": 2024,
+            "set": "2024 Panini Prizm",
+            "parallel": "Silver",
+            "number": "316",
+            "raw": 2.75,
+            "psa9": 19.82,
+            "psa10": 53.16,
+            "gemRate": null,
+            "gems": null,
+            "pop": null,
+            "popAsOf": null
+          }
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "missing",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "missing",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 46,
       "name": "Emeka Egbuka",
       "pos": "WR",
       "team": "TB",
@@ -1921,10 +2059,10 @@
       "draftYear": 2025,
       "draftRound": 1,
       "draftPick": 19,
-      "value": 3126,
-      "trend30": -1138,
-      "posRank": 18,
-      "rankDelta": null,
+      "value": 3089,
+      "trend30": -1025,
+      "posRank": 20,
+      "rankDelta": -7,
       "inTop100": true,
       "cards": [
         {
@@ -1975,397 +2113,7 @@
       ]
     },
     {
-      "rank": 44,
-      "name": "Luther Burden",
-      "pos": "WR",
-      "team": "CHI",
-      "age": 22.8,
-      "draftYear": 2025,
-      "draftRound": 2,
-      "draftPick": 7,
-      "value": 3101,
-      "trend30": -551,
-      "posRank": 19,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "comp",
-          "comp": {
-            "year": 2025,
-            "set": "2025 Panini Prizm",
-            "parallel": "Silver",
-            "number": "331",
-            "raw": 7.79,
-            "psa9": 45,
-            "psa10": 230.37,
-            "gemRate": null,
-            "gems": null,
-            "pop": null,
-            "popAsOf": null
-          }
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "missing",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 45,
-      "name": "DeVonta Smith",
-      "pos": "WR",
-      "team": "PHI",
-      "age": 27.9,
-      "draftYear": 2021,
-      "draftRound": 1,
-      "draftPick": 10,
-      "value": 3084,
-      "trend30": -806,
-      "posRank": 20,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "out-of-book",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 46,
-      "name": "Patrick Mahomes",
-      "pos": "QB",
-      "team": "KC",
-      "age": 31,
-      "draftYear": 2017,
-      "draftRound": 1,
-      "draftPick": 10,
-      "value": 3082,
-      "trend30": 456,
-      "posRank": 5,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "out-of-book",
-          "comp": null
-        }
-      ]
-    },
-    {
       "rank": 47,
-      "name": "Bucky Irving",
-      "pos": "RB",
-      "team": "TB",
-      "age": 24.1,
-      "draftYear": 2024,
-      "draftRound": 4,
-      "draftPick": 25,
-      "value": 3071,
-      "trend30": -47,
-      "posRank": 18,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "comp",
-          "comp": {
-            "year": 2024,
-            "set": "2024 Panini Prizm",
-            "parallel": "Silver",
-            "number": "316",
-            "raw": 2.75,
-            "psa9": 19.82,
-            "psa10": 53.16,
-            "gemRate": null,
-            "gems": null,
-            "pop": null,
-            "popAsOf": null
-          }
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "missing",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 48,
-      "name": "Saquon Barkley",
-      "pos": "RB",
-      "team": "PHI",
-      "age": 29.6,
-      "draftYear": 2018,
-      "draftRound": 1,
-      "draftPick": 2,
-      "value": 3056,
-      "trend30": -1333,
-      "posRank": 19,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "out-of-book",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 49,
-      "name": "Christian Watson",
-      "pos": "WR",
-      "team": "GB",
-      "age": 27.4,
-      "draftYear": 2022,
-      "draftRound": 2,
-      "draftPick": 2,
-      "value": 3007,
-      "trend30": 703,
-      "posRank": 21,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "out-of-book",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 50,
-      "name": "Brock Purdy",
-      "pos": "QB",
-      "team": "SF",
-      "age": 26.7,
-      "draftYear": 2022,
-      "draftRound": 7,
-      "draftPick": 41,
-      "value": 3001,
-      "trend30": 725,
-      "posRank": 6,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "out-of-book",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 51,
-      "name": "Jordyn Tyson",
-      "pos": "WR",
-      "team": "NO",
-      "age": 22.1,
-      "draftYear": 2026,
-      "draftRound": 1,
-      "draftPick": 8,
-      "value": 2943,
-      "trend30": 60,
-      "posRank": 22,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "unreleased",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "unreleased",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "unreleased",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 52,
-      "name": "Cam Skattebo",
-      "pos": "RB",
-      "team": "NYG",
-      "age": 24.6,
-      "draftYear": 2025,
-      "draftRound": 4,
-      "draftPick": 3,
-      "value": 2934,
-      "trend30": -325,
-      "posRank": 20,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "comp",
-          "comp": {
-            "year": 2025,
-            "set": "2025 Panini Prizm",
-            "parallel": "Silver",
-            "number": "363",
-            "raw": 7.92,
-            "psa9": 26.5,
-            "psa10": 119.75,
-            "gemRate": null,
-            "gems": null,
-            "pop": null,
-            "popAsOf": null
-          }
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "comp",
-          "comp": {
-            "year": 2025,
-            "set": "2025 Donruss Optic",
-            "parallel": "Holo",
-            "number": "228",
-            "raw": 3.41,
-            "psa9": 39.88,
-            "psa10": 125,
-            "gemRate": null,
-            "gems": null,
-            "pop": null,
-            "popAsOf": null
-          }
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "missing",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 53,
       "name": "Drake Maye",
       "pos": "QB",
       "team": "NE",
@@ -2373,10 +2121,10 @@
       "draftYear": 2024,
       "draftRound": 1,
       "draftPick": 3,
-      "value": 2885,
-      "trend30": -1430,
-      "posRank": 7,
-      "rankDelta": null,
+      "value": 3055,
+      "trend30": -1278,
+      "posRank": 5,
+      "rankDelta": 11,
       "inTop100": true,
       "cards": [
         {
@@ -2427,7 +2175,7 @@
       ]
     },
     {
-      "rank": 54,
+      "rank": 48,
       "name": "A.J. Brown",
       "pos": "WR",
       "team": "NE",
@@ -2435,10 +2183,10 @@
       "draftYear": 2019,
       "draftRound": 2,
       "draftPick": 19,
-      "value": 2864,
-      "trend30": -1191,
-      "posRank": 23,
-      "rankDelta": null,
+      "value": 3029,
+      "trend30": -1072,
+      "posRank": 21,
+      "rankDelta": 12,
       "inTop100": true,
       "cards": [
         {
@@ -2465,18 +2213,18 @@
       ]
     },
     {
-      "rank": 55,
-      "name": "D'Andre Swift",
+      "rank": 49,
+      "name": "Saquon Barkley",
       "pos": "RB",
-      "team": "CHI",
-      "age": 27.7,
-      "draftYear": 2020,
-      "draftRound": 2,
-      "draftPick": 3,
-      "value": 2846,
-      "trend30": 47,
-      "posRank": 21,
-      "rankDelta": null,
+      "team": "PHI",
+      "age": 29.6,
+      "draftYear": 2018,
+      "draftRound": 1,
+      "draftPick": 2,
+      "value": 3015,
+      "trend30": -1440,
+      "posRank": 19,
+      "rankDelta": -14,
       "inTop100": true,
       "cards": [
         {
@@ -2498,6 +2246,258 @@
           "label": "Contenders Auto",
           "blurb": "Optic silver autograph",
           "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "name": "Brock Purdy",
+      "pos": "QB",
+      "team": "SF",
+      "age": 26.7,
+      "draftYear": 2022,
+      "draftRound": 7,
+      "draftPick": 41,
+      "value": 3001,
+      "trend30": 747,
+      "posRank": 6,
+      "rankDelta": 4,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "name": "Patrick Mahomes",
+      "pos": "QB",
+      "team": "KC",
+      "age": 31,
+      "draftYear": 2017,
+      "draftRound": 1,
+      "draftPick": 10,
+      "value": 2991,
+      "trend30": 322,
+      "posRank": 7,
+      "rankDelta": -1,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "name": "Michael Wilson",
+      "pos": "WR",
+      "team": "ARI",
+      "age": 26.6,
+      "draftYear": 2023,
+      "draftRound": 3,
+      "draftPick": 31,
+      "value": 2903,
+      "trend30": 860,
+      "posRank": 22,
+      "rankDelta": 18,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "missing",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "missing",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "missing",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "name": "Christian Watson",
+      "pos": "WR",
+      "team": "GB",
+      "age": 27.4,
+      "draftYear": 2022,
+      "draftRound": 2,
+      "draftPick": 2,
+      "value": 2902,
+      "trend30": 577,
+      "posRank": 23,
+      "rankDelta": -10,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "name": "Jordyn Tyson",
+      "pos": "WR",
+      "team": "NO",
+      "age": 22.1,
+      "draftYear": 2026,
+      "draftRound": 1,
+      "draftPick": 8,
+      "value": 2881,
+      "trend30": -74,
+      "posRank": 24,
+      "rankDelta": -1,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "unreleased",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "unreleased",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "unreleased",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "name": "Cam Skattebo",
+      "pos": "RB",
+      "team": "NYG",
+      "age": 24.6,
+      "draftYear": 2025,
+      "draftRound": 4,
+      "draftPick": 3,
+      "value": 2863,
+      "trend30": -478,
+      "posRank": 20,
+      "rankDelta": -11,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "comp",
+          "comp": {
+            "year": 2025,
+            "set": "2025 Panini Prizm",
+            "parallel": "Silver",
+            "number": "363",
+            "raw": 7.92,
+            "psa9": 26.5,
+            "psa10": 119.75,
+            "gemRate": null,
+            "gems": null,
+            "pop": null,
+            "popAsOf": null
+          }
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "comp",
+          "comp": {
+            "year": 2025,
+            "set": "2025 Donruss Optic",
+            "parallel": "Holo",
+            "number": "228",
+            "raw": 3.41,
+            "psa9": 39.88,
+            "psa10": 125,
+            "gemRate": null,
+            "gems": null,
+            "pop": null,
+            "popAsOf": null
+          }
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "missing",
           "comp": null
         }
       ]
@@ -2511,10 +2511,10 @@
       "draftYear": 2023,
       "draftRound": 2,
       "draftPick": 24,
-      "value": 2832,
-      "trend30": -584,
-      "posRank": 24,
-      "rankDelta": null,
+      "value": 2831,
+      "trend30": -538,
+      "posRank": 25,
+      "rankDelta": -9,
       "inTop100": true,
       "cards": [
         {
@@ -2554,170 +2554,6 @@
     },
     {
       "rank": 57,
-      "name": "Chuba Hubbard",
-      "pos": "RB",
-      "team": "CAR",
-      "age": 27.3,
-      "draftYear": 2021,
-      "draftRound": 4,
-      "draftPick": 21,
-      "value": 2823,
-      "trend30": 941,
-      "posRank": 22,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "out-of-book",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 58,
-      "name": "Trevor Lawrence",
-      "pos": "QB",
-      "team": "JAX",
-      "age": 27,
-      "draftYear": 2021,
-      "draftRound": 1,
-      "draftPick": 1,
-      "value": 2808,
-      "trend30": 149,
-      "posRank": 8,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "out-of-book",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 59,
-      "name": "Harold Fannin",
-      "pos": "TE",
-      "team": "CLE",
-      "age": 22.2,
-      "draftYear": 2025,
-      "draftRound": 3,
-      "draftPick": 3,
-      "value": 2782,
-      "trend30": -60,
-      "posRank": 5,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "missing",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 60,
-      "name": "TreVeyon Henderson",
-      "pos": "RB",
-      "team": "NE",
-      "age": 23.9,
-      "draftYear": 2025,
-      "draftRound": 2,
-      "draftPick": 6,
-      "value": 2782,
-      "trend30": -632,
-      "posRank": 23,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "comp",
-          "comp": {
-            "year": 2025,
-            "set": "2025 Panini Prizm",
-            "parallel": "Silver",
-            "number": "343",
-            "raw": 4.1,
-            "psa9": 25.25,
-            "psa10": 57.5,
-            "gemRate": null,
-            "gems": null,
-            "pop": null,
-            "popAsOf": null
-          }
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "missing",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 61,
       "name": "Matthew Golden",
       "pos": "WR",
       "team": "GB",
@@ -2725,10 +2561,10 @@
       "draftYear": 2025,
       "draftRound": 1,
       "draftPick": 23,
-      "value": 2751,
-      "trend30": 843,
-      "posRank": 25,
-      "rankDelta": null,
+      "value": 2830,
+      "trend30": 877,
+      "posRank": 26,
+      "rankDelta": 2,
       "inTop100": true,
       "cards": [
         {
@@ -2767,7 +2603,121 @@
       ]
     },
     {
-      "rank": 62,
+      "rank": 58,
+      "name": "Harold Fannin",
+      "pos": "TE",
+      "team": "CLE",
+      "age": 22.2,
+      "draftYear": 2025,
+      "draftRound": 3,
+      "draftPick": 3,
+      "value": 2789,
+      "trend30": -4,
+      "posRank": 5,
+      "rankDelta": 7,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "missing",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "missing",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "missing",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "name": "Chuba Hubbard",
+      "pos": "RB",
+      "team": "CAR",
+      "age": 27.3,
+      "draftYear": 2021,
+      "draftRound": 4,
+      "draftPick": 21,
+      "value": 2777,
+      "trend30": 956,
+      "posRank": 21,
+      "rankDelta": 5,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "name": "D'Andre Swift",
+      "pos": "RB",
+      "team": "CHI",
+      "age": 27.7,
+      "draftYear": 2020,
+      "draftRound": 2,
+      "draftPick": 3,
+      "value": 2757,
+      "trend30": 65,
+      "posRank": 22,
+      "rankDelta": -18,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 61,
       "name": "Ladd McConkey",
       "pos": "WR",
       "team": "LAC",
@@ -2775,10 +2725,10 @@
       "draftYear": 2024,
       "draftRound": 2,
       "draftPick": 2,
-      "value": 2745,
-      "trend30": -1153,
-      "posRank": 26,
-      "rankDelta": null,
+      "value": 2752,
+      "trend30": -1071,
+      "posRank": 27,
+      "rankDelta": -15,
       "inTop100": true,
       "cards": [
         {
@@ -2829,102 +2779,38 @@
       ]
     },
     {
-      "rank": 63,
-      "name": "Jadarian Price",
+      "rank": 62,
+      "name": "TreVeyon Henderson",
       "pos": "RB",
-      "team": "SEA",
-      "age": 23,
-      "draftYear": 2026,
-      "draftRound": 1,
-      "draftPick": 32,
-      "value": 2704,
-      "trend30": -1068,
-      "posRank": 24,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "unreleased",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "unreleased",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "unreleased",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 64,
-      "name": "Michael Wilson",
-      "pos": "WR",
-      "team": "ARI",
-      "age": 26.6,
-      "draftYear": 2023,
-      "draftRound": 3,
-      "draftPick": 31,
-      "value": 2673,
-      "trend30": 698,
-      "posRank": 27,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "missing",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 65,
-      "name": "Sam LaPorta",
-      "pos": "TE",
-      "team": "DET",
-      "age": 25.7,
-      "draftYear": 2023,
+      "team": "NE",
+      "age": 23.9,
+      "draftYear": 2025,
       "draftRound": 2,
-      "draftPick": 3,
-      "value": 2624,
-      "trend30": -73,
-      "posRank": 6,
-      "rankDelta": null,
+      "draftPick": 6,
+      "value": 2749,
+      "trend30": -554,
+      "posRank": 23,
+      "rankDelta": -6,
       "inTop100": true,
       "cards": [
         {
           "product": "prizm-silver",
           "label": "Prizm Silver",
           "blurb": "Rookie Silver Prizm",
-          "status": "missing",
-          "comp": null
+          "status": "comp",
+          "comp": {
+            "year": 2025,
+            "set": "2025 Panini Prizm",
+            "parallel": "Silver",
+            "number": "343",
+            "raw": 4.1,
+            "psa9": 25.25,
+            "psa10": 57.5,
+            "gemRate": null,
+            "gems": null,
+            "pop": null,
+            "popAsOf": null
+          }
         },
         {
           "product": "optic-holo",
@@ -2943,7 +2829,7 @@
       ]
     },
     {
-      "rank": 66,
+      "rank": 63,
       "name": "Jayden Daniels",
       "pos": "QB",
       "team": "WAS",
@@ -2951,10 +2837,10 @@
       "draftYear": 2024,
       "draftRound": 1,
       "draftPick": 2,
-      "value": 2541,
-      "trend30": -836,
-      "posRank": 9,
-      "rankDelta": null,
+      "value": 2724,
+      "trend30": -776,
+      "posRank": 8,
+      "rankDelta": -1,
       "inTop100": true,
       "cards": [
         {
@@ -3005,18 +2891,18 @@
       ]
     },
     {
-      "rank": 67,
-      "name": "Jaylen Waddle",
-      "pos": "WR",
-      "team": "DEN",
-      "age": 27.8,
+      "rank": 64,
+      "name": "Trevor Lawrence",
+      "pos": "QB",
+      "team": "JAX",
+      "age": 27,
       "draftYear": 2021,
       "draftRound": 1,
-      "draftPick": 6,
-      "value": 2541,
-      "trend30": -745,
-      "posRank": 28,
-      "rankDelta": null,
+      "draftPick": 1,
+      "value": 2717,
+      "trend30": 10,
+      "posRank": 9,
+      "rankDelta": -7,
       "inTop100": true,
       "cards": [
         {
@@ -3043,18 +2929,56 @@
       ]
     },
     {
-      "rank": 68,
-      "name": "Denzel Boston",
-      "pos": "WR",
-      "team": "CLE",
-      "age": 22.8,
-      "draftYear": 2026,
+      "rank": 65,
+      "name": "Sam LaPorta",
+      "pos": "TE",
+      "team": "DET",
+      "age": 25.7,
+      "draftYear": 2023,
       "draftRound": 2,
-      "draftPick": 7,
-      "value": 2536,
-      "trend30": 647,
-      "posRank": 29,
-      "rankDelta": null,
+      "draftPick": 3,
+      "value": 2670,
+      "trend30": -244,
+      "posRank": 6,
+      "rankDelta": 3,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "missing",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "missing",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "missing",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "name": "Jadarian Price",
+      "pos": "RB",
+      "team": "SEA",
+      "age": 23,
+      "draftYear": 2026,
+      "draftRound": 1,
+      "draftPick": 32,
+      "value": 2615,
+      "trend30": -1220,
+      "posRank": 24,
+      "rankDelta": -3,
       "inTop100": true,
       "cards": [
         {
@@ -3076,6 +3000,82 @@
           "label": "Contenders Auto",
           "blurb": "Optic silver autograph",
           "status": "unreleased",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "name": "Denzel Boston",
+      "pos": "WR",
+      "team": "CLE",
+      "age": 22.8,
+      "draftYear": 2026,
+      "draftRound": 2,
+      "draftPick": 7,
+      "value": 2602,
+      "trend30": 713,
+      "posRank": 28,
+      "rankDelta": 0,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "unreleased",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "unreleased",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "unreleased",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "name": "Jaylen Waddle",
+      "pos": "WR",
+      "team": "DEN",
+      "age": 27.8,
+      "draftYear": 2021,
+      "draftRound": 1,
+      "draftPick": 6,
+      "value": 2582,
+      "trend30": -910,
+      "posRank": 29,
+      "rankDelta": -7,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
           "comp": null
         }
       ]
@@ -3089,10 +3089,10 @@
       "draftYear": 2023,
       "draftRound": 3,
       "draftPick": 15,
-      "value": 2520,
-      "trend30": -427,
+      "value": 2560,
+      "trend30": -522,
       "posRank": 7,
-      "rankDelta": null,
+      "rankDelta": 4,
       "inTop100": true,
       "cards": [
         {
@@ -3120,17 +3120,17 @@
     },
     {
       "rank": 70,
-      "name": "Jalen Hurts",
-      "pos": "QB",
-      "team": "PHI",
-      "age": 28.1,
-      "draftYear": 2020,
-      "draftRound": 2,
-      "draftPick": 21,
-      "value": 2408,
-      "trend30": -363,
-      "posRank": 10,
-      "rankDelta": null,
+      "name": "Jaylen Warren",
+      "pos": "RB",
+      "team": "PIT",
+      "age": 27.9,
+      "draftYear": null,
+      "draftRound": null,
+      "draftPick": null,
+      "value": 2456,
+      "trend30": 342,
+      "posRank": 25,
+      "rankDelta": 14,
       "inTop100": true,
       "cards": [
         {
@@ -3158,308 +3158,6 @@
     },
     {
       "rank": 71,
-      "name": "Tyler Shough",
-      "pos": "QB",
-      "team": "NO",
-      "age": 27,
-      "draftYear": 2025,
-      "draftRound": 2,
-      "draftPick": 8,
-      "value": 2378,
-      "trend30": 668,
-      "posRank": 11,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "comp",
-          "comp": {
-            "year": 2025,
-            "set": "2025 Panini Prizm",
-            "parallel": "Silver",
-            "number": "327",
-            "raw": 43.08,
-            "psa9": 80,
-            "psa10": 718.16,
-            "gemRate": null,
-            "gems": null,
-            "pop": null,
-            "popAsOf": null
-          }
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "comp",
-          "comp": {
-            "year": 2025,
-            "set": "2025 Donruss Optic",
-            "parallel": "Holo",
-            "number": "223",
-            "raw": 13.59,
-            "psa9": 43.07,
-            "psa10": 225,
-            "gemRate": null,
-            "gems": null,
-            "pop": null,
-            "popAsOf": null
-          }
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "missing",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 72,
-      "name": "Kenyon Sadiq",
-      "pos": "TE",
-      "team": "NYJ",
-      "age": 21.6,
-      "draftYear": 2026,
-      "draftRound": 1,
-      "draftPick": 16,
-      "value": 2335,
-      "trend30": 388,
-      "posRank": 8,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "unreleased",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "unreleased",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "unreleased",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 73,
-      "name": "Jaylen Warren",
-      "pos": "RB",
-      "team": "PIT",
-      "age": 27.9,
-      "draftYear": null,
-      "draftRound": null,
-      "draftPick": null,
-      "value": 2318,
-      "trend30": 302,
-      "posRank": 25,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "out-of-book",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 74,
-      "name": "KC Concepcion",
-      "pos": "WR",
-      "team": "CLE",
-      "age": 22,
-      "draftYear": 2026,
-      "draftRound": 1,
-      "draftPick": 24,
-      "value": 2307,
-      "trend30": -348,
-      "posRank": 30,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "unreleased",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "unreleased",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "unreleased",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 75,
-      "name": "Dalton Kincaid",
-      "pos": "TE",
-      "team": "BUF",
-      "age": 26.9,
-      "draftYear": 2023,
-      "draftRound": 1,
-      "draftPick": 25,
-      "value": 2285,
-      "trend30": 529,
-      "posRank": 9,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "comp",
-          "comp": {
-            "year": 2023,
-            "set": "2023 Donruss Optic",
-            "parallel": "Holo",
-            "number": "211",
-            "raw": 1.87,
-            "psa9": 16.38,
-            "psa10": 34.15,
-            "gemRate": null,
-            "gems": null,
-            "pop": null,
-            "popAsOf": null
-          }
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "missing",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 76,
-      "name": "George Kittle",
-      "pos": "TE",
-      "team": "SF",
-      "age": 33,
-      "draftYear": 2017,
-      "draftRound": 5,
-      "draftPick": 2,
-      "value": 2280,
-      "trend30": 388,
-      "posRank": 10,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "out-of-book",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 77,
-      "name": "Jameson Williams",
-      "pos": "WR",
-      "team": "DET",
-      "age": 25.5,
-      "draftYear": 2022,
-      "draftRound": 1,
-      "draftPick": 12,
-      "value": 2249,
-      "trend30": -694,
-      "posRank": 31,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "out-of-book",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 78,
       "name": "Rome Odunze",
       "pos": "WR",
       "team": "CHI",
@@ -3467,10 +3165,10 @@
       "draftYear": 2024,
       "draftRound": 1,
       "draftPick": 9,
-      "value": 2244,
-      "trend30": -767,
-      "posRank": 32,
-      "rankDelta": null,
+      "value": 2403,
+      "trend30": -629,
+      "posRank": 30,
+      "rankDelta": 18,
       "inTop100": true,
       "cards": [
         {
@@ -3521,45 +3219,7 @@
       ]
     },
     {
-      "rank": 79,
-      "name": "Davante Adams",
-      "pos": "WR",
-      "team": "LAR",
-      "age": 33.8,
-      "draftYear": 2014,
-      "draftRound": 2,
-      "draftPick": 21,
-      "value": 2237,
-      "trend30": 106,
-      "posRank": 33,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "out-of-book",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 80,
+      "rank": 72,
       "name": "Makai Lemon",
       "pos": "WR",
       "team": "PHI",
@@ -3567,10 +3227,10 @@
       "draftYear": 2026,
       "draftRound": 1,
       "draftPick": 20,
-      "value": 2210,
-      "trend30": -455,
-      "posRank": 34,
-      "rankDelta": null,
+      "value": 2359,
+      "trend30": -382,
+      "posRank": 31,
+      "rankDelta": 6,
       "inTop100": true,
       "cards": [
         {
@@ -3597,33 +3257,78 @@
       ]
     },
     {
-      "rank": 81,
-      "name": "Kyle Monangai",
-      "pos": "RB",
-      "team": "CHI",
-      "age": 24.3,
-      "draftYear": 2025,
-      "draftRound": 7,
-      "draftPick": 17,
-      "value": 2184,
-      "trend30": 521,
-      "posRank": 26,
-      "rankDelta": null,
+      "rank": 73,
+      "name": "Jalen Hurts",
+      "pos": "QB",
+      "team": "PHI",
+      "age": 28.1,
+      "draftYear": 2020,
+      "draftRound": 2,
+      "draftPick": 21,
+      "value": 2349,
+      "trend30": -444,
+      "posRank": 10,
+      "rankDelta": -7,
       "inTop100": true,
       "cards": [
         {
           "product": "prizm-silver",
           "label": "Prizm Silver",
           "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "name": "Dalton Kincaid",
+      "pos": "TE",
+      "team": "BUF",
+      "age": 26.9,
+      "draftYear": 2023,
+      "draftRound": 1,
+      "draftPick": 25,
+      "value": 2343,
+      "trend30": 489,
+      "posRank": 8,
+      "rankDelta": -3,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "missing",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
           "status": "comp",
           "comp": {
-            "year": 2025,
-            "set": "2025 Panini Prizm",
-            "parallel": "Silver",
-            "number": "348",
-            "raw": 3.4,
-            "psa9": 25,
-            "psa10": 70,
+            "year": 2023,
+            "set": "2023 Donruss Optic",
+            "parallel": "Holo",
+            "number": "211",
+            "raw": 1.87,
+            "psa9": 16.38,
+            "psa10": 34.15,
             "gemRate": null,
             "gems": null,
             "pop": null,
@@ -3631,13 +3336,6 @@
           }
         },
         {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "missing",
-          "comp": null
-        },
-        {
           "product": "contenders-silver-auto",
           "label": "Contenders Auto",
           "blurb": "Optic silver autograph",
@@ -3647,7 +3345,121 @@
       ]
     },
     {
-      "rank": 82,
+      "rank": 75,
+      "name": "Kenyon Sadiq",
+      "pos": "TE",
+      "team": "NYJ",
+      "age": 21.6,
+      "draftYear": 2026,
+      "draftRound": 1,
+      "draftPick": 16,
+      "value": 2316,
+      "trend30": 240,
+      "posRank": 9,
+      "rankDelta": -6,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "unreleased",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "unreleased",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "unreleased",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "name": "KC Concepcion",
+      "pos": "WR",
+      "team": "CLE",
+      "age": 22,
+      "draftYear": 2026,
+      "draftRound": 1,
+      "draftPick": 24,
+      "value": 2305,
+      "trend30": -430,
+      "posRank": 32,
+      "rankDelta": 4,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "unreleased",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "unreleased",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "unreleased",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "name": "George Kittle",
+      "pos": "TE",
+      "team": "SF",
+      "age": 33,
+      "draftYear": 2017,
+      "draftRound": 5,
+      "draftPick": 2,
+      "value": 2276,
+      "trend30": 438,
+      "posRank": 10,
+      "rankDelta": 11,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 78,
       "name": "Dak Prescott",
       "pos": "QB",
       "team": "DAL",
@@ -3655,10 +3467,10 @@
       "draftYear": 2016,
       "draftRound": 4,
       "draftPick": 37,
-      "value": 2171,
-      "trend30": -66,
-      "posRank": 12,
-      "rankDelta": null,
+      "value": 2271,
+      "trend30": 75,
+      "posRank": 11,
+      "rankDelta": 3,
       "inTop100": true,
       "cards": [
         {
@@ -3685,45 +3497,7 @@
       ]
     },
     {
-      "rank": 83,
-      "name": "Travis Etienne",
-      "pos": "RB",
-      "team": "NO",
-      "age": 27.7,
-      "draftYear": 2021,
-      "draftRound": 1,
-      "draftPick": 25,
-      "value": 2142,
-      "trend30": -1037,
-      "posRank": 27,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "out-of-book",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 84,
+      "rank": 79,
       "name": "Jaxson Dart",
       "pos": "QB",
       "team": "NYG",
@@ -3731,10 +3505,10 @@
       "draftYear": 2025,
       "draftRound": 1,
       "draftPick": 25,
-      "value": 2140,
-      "trend30": -444,
-      "posRank": 13,
-      "rankDelta": null,
+      "value": 2257,
+      "trend30": -388,
+      "posRank": 12,
+      "rankDelta": -3,
       "inTop100": true,
       "cards": [
         {
@@ -3785,7 +3559,195 @@
       ]
     },
     {
-      "rank": 85,
+      "rank": 80,
+      "name": "Jameson Williams",
+      "pos": "WR",
+      "team": "DET",
+      "age": 25.5,
+      "draftYear": 2022,
+      "draftRound": 1,
+      "draftPick": 12,
+      "value": 2256,
+      "trend30": -649,
+      "posRank": 33,
+      "rankDelta": 7,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "name": "Tyler Shough",
+      "pos": "QB",
+      "team": "NO",
+      "age": 27,
+      "draftYear": 2025,
+      "draftRound": 2,
+      "draftPick": 8,
+      "value": 2223,
+      "trend30": 490,
+      "posRank": 13,
+      "rankDelta": -7,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "comp",
+          "comp": {
+            "year": 2025,
+            "set": "2025 Panini Prizm",
+            "parallel": "Silver",
+            "number": "327",
+            "raw": 43.08,
+            "psa9": 80,
+            "psa10": 718.16,
+            "gemRate": null,
+            "gems": null,
+            "pop": null,
+            "popAsOf": null
+          }
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "comp",
+          "comp": {
+            "year": 2025,
+            "set": "2025 Donruss Optic",
+            "parallel": "Holo",
+            "number": "223",
+            "raw": 13.59,
+            "psa9": 43.07,
+            "psa10": 225,
+            "gemRate": null,
+            "gems": null,
+            "pop": null,
+            "popAsOf": null
+          }
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "missing",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "name": "Marvin Harrison Jr",
+      "pos": "WR",
+      "team": "ARI",
+      "age": 24.1,
+      "draftYear": 2024,
+      "draftRound": 1,
+      "draftPick": 4,
+      "value": 2200,
+      "trend30": -775,
+      "posRank": 34,
+      "rankDelta": 0,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "comp",
+          "comp": {
+            "year": 2024,
+            "set": "2024 Panini Prizm",
+            "parallel": "Silver",
+            "number": "375",
+            "raw": 5.34,
+            "psa9": 21.5,
+            "psa10": 105,
+            "gemRate": null,
+            "gems": null,
+            "pop": null,
+            "popAsOf": null
+          }
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "missing",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "missing",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "name": "Travis Etienne",
+      "pos": "RB",
+      "team": "NO",
+      "age": 27.7,
+      "draftYear": 2021,
+      "draftRound": 1,
+      "draftPick": 25,
+      "value": 2159,
+      "trend30": -1132,
+      "posRank": 26,
+      "rankDelta": -6,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 84,
       "name": "Bryce Young",
       "pos": "QB",
       "team": "CAR",
@@ -3793,10 +3755,10 @@
       "draftYear": 2023,
       "draftRound": 1,
       "draftPick": 1,
-      "value": 2126,
-      "trend30": 795,
+      "value": 2145,
+      "trend30": 718,
       "posRank": 14,
-      "rankDelta": null,
+      "rankDelta": 16,
       "inTop100": true,
       "cards": [
         {
@@ -3847,6 +3809,44 @@
       ]
     },
     {
+      "rank": 85,
+      "name": "Davante Adams",
+      "pos": "WR",
+      "team": "LAR",
+      "age": 33.8,
+      "draftYear": 2014,
+      "draftRound": 2,
+      "draftPick": 21,
+      "value": 2142,
+      "trend30": 50,
+      "posRank": 35,
+      "rankDelta": -10,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
       "rank": 86,
       "name": "Jalen Coker",
       "pos": "WR",
@@ -3855,10 +3855,10 @@
       "draftYear": null,
       "draftRound": null,
       "draftPick": null,
-      "value": 2102,
-      "trend30": 598,
-      "posRank": 35,
-      "rankDelta": null,
+      "value": 2111,
+      "trend30": 618,
+      "posRank": 36,
+      "rankDelta": -7,
       "inTop100": true,
       "cards": [
         {
@@ -3886,17 +3886,17 @@
     },
     {
       "rank": 87,
-      "name": "Marvin Harrison Jr",
-      "pos": "WR",
-      "team": "ARI",
-      "age": 24.1,
-      "draftYear": 2024,
-      "draftRound": 1,
-      "draftPick": 4,
-      "value": 2086,
-      "trend30": -865,
-      "posRank": 36,
-      "rankDelta": null,
+      "name": "Kyle Monangai",
+      "pos": "RB",
+      "team": "CHI",
+      "age": 24.3,
+      "draftYear": 2025,
+      "draftRound": 7,
+      "draftPick": 17,
+      "value": 2102,
+      "trend30": 368,
+      "posRank": 27,
+      "rankDelta": 18,
       "inTop100": true,
       "cards": [
         {
@@ -3905,13 +3905,13 @@
           "blurb": "Rookie Silver Prizm",
           "status": "comp",
           "comp": {
-            "year": 2024,
-            "set": "2024 Panini Prizm",
+            "year": 2025,
+            "set": "2025 Panini Prizm",
             "parallel": "Silver",
-            "number": "375",
-            "raw": 5.34,
-            "psa9": 21.5,
-            "psa10": 105,
+            "number": "348",
+            "raw": 3.4,
+            "psa9": 25,
+            "psa10": 70,
             "gemRate": null,
             "gems": null,
             "pop": null,
@@ -3943,10 +3943,10 @@
       "draftYear": 2024,
       "draftRound": 1,
       "draftPick": 12,
-      "value": 2069,
-      "trend30": -447,
+      "value": 2062,
+      "trend30": -544,
       "posRank": 15,
-      "rankDelta": null,
+      "rankDelta": -5,
       "inTop100": true,
       "cards": [
         {
@@ -3998,93 +3998,93 @@
     },
     {
       "rank": 89,
-      "name": "Justin Herbert",
-      "pos": "QB",
-      "team": "LAC",
-      "age": 28.5,
-      "draftYear": 2020,
-      "draftRound": 1,
-      "draftPick": 6,
-      "value": 2043,
-      "trend30": -1041,
-      "posRank": 16,
-      "rankDelta": null,
+      "name": "RJ Harvey",
+      "pos": "RB",
+      "team": "DEN",
+      "age": 25.6,
+      "draftYear": 2025,
+      "draftRound": 2,
+      "draftPick": 28,
+      "value": 2032,
+      "trend30": -47,
+      "posRank": 28,
+      "rankDelta": 7,
       "inTop100": true,
       "cards": [
         {
           "product": "prizm-silver",
           "label": "Prizm Silver",
           "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
+          "status": "missing",
           "comp": null
         },
         {
           "product": "optic-holo",
           "label": "Optic Holo",
           "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
+          "status": "missing",
           "comp": null
         },
         {
           "product": "contenders-silver-auto",
           "label": "Contenders Auto",
           "blurb": "Optic silver autograph",
-          "status": "out-of-book",
+          "status": "missing",
           "comp": null
         }
       ]
     },
     {
       "rank": 90,
-      "name": "DJ Moore",
-      "pos": "WR",
-      "team": "BUF",
-      "age": 29.4,
-      "draftYear": 2018,
-      "draftRound": 1,
-      "draftPick": 24,
-      "value": 2009,
-      "trend30": -442,
-      "posRank": 37,
-      "rankDelta": null,
+      "name": "Zach Charbonnet",
+      "pos": "RB",
+      "team": "SEA",
+      "age": 25.7,
+      "draftYear": 2023,
+      "draftRound": 2,
+      "draftPick": 21,
+      "value": 2014,
+      "trend30": 187,
+      "posRank": 29,
+      "rankDelta": 8,
       "inTop100": true,
       "cards": [
         {
           "product": "prizm-silver",
           "label": "Prizm Silver",
           "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
+          "status": "missing",
           "comp": null
         },
         {
           "product": "optic-holo",
           "label": "Optic Holo",
           "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
+          "status": "missing",
           "comp": null
         },
         {
           "product": "contenders-silver-auto",
           "label": "Contenders Auto",
           "blurb": "Optic silver autograph",
-          "status": "out-of-book",
+          "status": "missing",
           "comp": null
         }
       ]
     },
     {
       "rank": 91,
-      "name": "Josh Jacobs",
-      "pos": "RB",
+      "name": "Jordan Love",
+      "pos": "QB",
       "team": "GB",
-      "age": 28.6,
-      "draftYear": 2019,
+      "age": 27.9,
+      "draftYear": 2020,
       "draftRound": 1,
-      "draftPick": 24,
-      "value": 1952,
-      "trend30": -376,
-      "posRank": 28,
-      "rankDelta": null,
+      "draftPick": 26,
+      "value": 1988,
+      "trend30": -31,
+      "posRank": 16,
+      "rankDelta": 1,
       "inTop100": true,
       "cards": [
         {
@@ -4112,17 +4112,17 @@
     },
     {
       "rank": 92,
-      "name": "Jordan Love",
+      "name": "Justin Herbert",
       "pos": "QB",
-      "team": "GB",
-      "age": 27.9,
+      "team": "LAC",
+      "age": 28.5,
       "draftYear": 2020,
       "draftRound": 1,
-      "draftPick": 26,
-      "value": 1947,
-      "trend30": -91,
+      "draftPick": 6,
+      "value": 1981,
+      "trend30": -1098,
       "posRank": 17,
-      "rankDelta": null,
+      "rankDelta": -7,
       "inTop100": true,
       "cards": [
         {
@@ -4150,82 +4150,6 @@
     },
     {
       "rank": 93,
-      "name": "Isaiah Likely",
-      "pos": "TE",
-      "team": "NYG",
-      "age": 26.4,
-      "draftYear": 2022,
-      "draftRound": 4,
-      "draftPick": 34,
-      "value": 1919,
-      "trend30": 173,
-      "posRank": 11,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "out-of-book",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 94,
-      "name": "Zach Charbonnet",
-      "pos": "RB",
-      "team": "SEA",
-      "age": 25.7,
-      "draftYear": 2023,
-      "draftRound": 2,
-      "draftPick": 21,
-      "value": 1914,
-      "trend30": 158,
-      "posRank": 29,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "missing",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 95,
       "name": "Fernando Mendoza",
       "pos": "QB",
       "team": "LV",
@@ -4233,10 +4157,86 @@
       "draftYear": 2026,
       "draftRound": 1,
       "draftPick": 1,
-      "value": 1908,
-      "trend30": 39,
+      "value": 1971,
+      "trend30": 137,
       "posRank": 18,
-      "rankDelta": null,
+      "rankDelta": 1,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "unreleased",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "unreleased",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "unreleased",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "name": "Josh Jacobs",
+      "pos": "RB",
+      "team": "GB",
+      "age": 28.6,
+      "draftYear": 2019,
+      "draftRound": 1,
+      "draftPick": 24,
+      "value": 1967,
+      "trend30": -289,
+      "posRank": 30,
+      "rankDelta": -3,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "name": "Jonah Coleman",
+      "pos": "RB",
+      "team": "DEN",
+      "age": 23.1,
+      "draftYear": 2026,
+      "draftRound": 4,
+      "draftPick": 8,
+      "value": 1938,
+      "trend30": -33,
+      "posRank": 31,
+      "rankDelta": 7,
       "inTop100": true,
       "cards": [
         {
@@ -4264,6 +4264,158 @@
     },
     {
       "rank": 96,
+      "name": "DJ Moore",
+      "pos": "WR",
+      "team": "BUF",
+      "age": 29.4,
+      "draftYear": 2018,
+      "draftRound": 1,
+      "draftPick": 24,
+      "value": 1932,
+      "trend30": -459,
+      "posRank": 37,
+      "rankDelta": -24,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "name": "Isaiah Likely",
+      "pos": "TE",
+      "team": "NYG",
+      "age": 26.4,
+      "draftYear": 2022,
+      "draftRound": 4,
+      "draftPick": 34,
+      "value": 1927,
+      "trend30": 165,
+      "posRank": 11,
+      "rankDelta": -2,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "name": "David Montgomery",
+      "pos": "RB",
+      "team": "HOU",
+      "age": 29.3,
+      "draftYear": 2019,
+      "draftRound": 3,
+      "draftPick": 9,
+      "value": 1909,
+      "trend30": -642,
+      "posRank": 32,
+      "rankDelta": -12,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 99,
+      "name": "Jared Goff",
+      "pos": "QB",
+      "team": "DET",
+      "age": 31.9,
+      "draftYear": 2016,
+      "draftRound": 1,
+      "draftPick": 1,
+      "value": 1873,
+      "trend30": 69,
+      "posRank": 19,
+      "rankDelta": -2,
+      "inTop100": true,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "out-of-book",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "out-of-book",
+          "comp": null
+        }
+      ]
+    },
+    {
+      "rank": 100,
       "name": "Brian Thomas",
       "pos": "WR",
       "team": "JAX",
@@ -4271,10 +4423,10 @@
       "draftYear": 2024,
       "draftRound": 1,
       "draftPick": 23,
-      "value": 1901,
-      "trend30": -929,
+      "value": 1858,
+      "trend30": -947,
       "posRank": 38,
-      "rankDelta": null,
+      "rankDelta": -7,
       "inTop100": true,
       "cards": [
         {
@@ -4301,7 +4453,7 @@
       ]
     },
     {
-      "rank": 97,
+      "rank": 102,
       "name": "C.J. Stroud",
       "pos": "QB",
       "team": "HOU",
@@ -4309,11 +4461,11 @@
       "draftYear": 2023,
       "draftRound": 1,
       "draftPick": 2,
-      "value": 1881,
-      "trend30": 251,
-      "posRank": 19,
-      "rankDelta": null,
-      "inTop100": true,
+      "value": 1785,
+      "trend30": 106,
+      "posRank": 20,
+      "rankDelta": 11,
+      "inTop100": false,
       "cards": [
         {
           "product": "prizm-silver",
@@ -4363,121 +4515,7 @@
       ]
     },
     {
-      "rank": 98,
-      "name": "Jared Goff",
-      "pos": "QB",
-      "team": "DET",
-      "age": 31.9,
-      "draftYear": 2016,
-      "draftRound": 1,
-      "draftPick": 1,
-      "value": 1868,
-      "trend30": 26,
-      "posRank": 20,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "out-of-book",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "out-of-book",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 99,
-      "name": "Jordan Addison",
-      "pos": "WR",
-      "team": "MIN",
-      "age": 24.7,
-      "draftYear": 2023,
-      "draftRound": 1,
-      "draftPick": 23,
-      "value": 1861,
-      "trend30": -76,
-      "posRank": 39,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "missing",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 100,
-      "name": "RJ Harvey",
-      "pos": "RB",
-      "team": "DEN",
-      "age": 25.6,
-      "draftYear": 2025,
-      "draftRound": 2,
-      "draftPick": 28,
-      "value": 1840,
-      "trend30": -274,
-      "posRank": 30,
-      "rankDelta": null,
-      "inTop100": true,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "missing",
-          "comp": null
-        }
-      ]
-    },
-    {
-      "rank": 127,
+      "rank": 131,
       "name": "Keon Coleman",
       "pos": "WR",
       "team": "BUF",
@@ -4485,10 +4523,10 @@
       "draftYear": 2024,
       "draftRound": 2,
       "draftPick": 1,
-      "value": 1426,
-      "trend30": 696,
-      "posRank": 51,
-      "rankDelta": null,
+      "value": 1396,
+      "trend30": 562,
+      "posRank": 52,
+      "rankDelta": 57,
       "inTop100": false,
       "cards": [
         {
@@ -4527,7 +4565,7 @@
       ]
     },
     {
-      "rank": 143,
+      "rank": 142,
       "name": "Cam Ward",
       "pos": "QB",
       "team": "TEN",
@@ -4535,10 +4573,10 @@
       "draftYear": 2025,
       "draftRound": 1,
       "draftPick": 1,
-      "value": 1304,
-      "trend30": -292,
+      "value": 1352,
+      "trend30": -291,
       "posRank": 22,
-      "rankDelta": null,
+      "rankDelta": 1,
       "inTop100": false,
       "cards": [
         {
@@ -4589,7 +4627,7 @@
       ]
     },
     {
-      "rank": 185,
+      "rank": 179,
       "name": "Michael Penix",
       "pos": "QB",
       "team": "ATL",
@@ -4597,10 +4635,10 @@
       "draftYear": 2024,
       "draftRound": 1,
       "draftPick": 8,
-      "value": 1062,
-      "trend30": 131,
+      "value": 1116,
+      "trend30": 361,
       "posRank": 27,
-      "rankDelta": null,
+      "rankDelta": 6,
       "inTop100": false,
       "cards": [
         {
@@ -4651,7 +4689,7 @@
       ]
     },
     {
-      "rank": 209,
+      "rank": 206,
       "name": "Travis Hunter",
       "pos": "WR",
       "team": "JAX",
@@ -4659,10 +4697,10 @@
       "draftYear": 2025,
       "draftRound": 1,
       "draftPick": 2,
-      "value": 805,
-      "trend30": -675,
+      "value": 807,
+      "trend30": -694,
       "posRank": 84,
-      "rankDelta": null,
+      "rankDelta": -12,
       "inTop100": false,
       "cards": [
         {
@@ -4713,7 +4751,7 @@
       ]
     },
     {
-      "rank": 231,
+      "rank": 233,
       "name": "J.J. McCarthy",
       "pos": "QB",
       "team": "MIN",
@@ -4721,10 +4759,10 @@
       "draftYear": 2024,
       "draftRound": 1,
       "draftPick": 10,
-      "value": 557,
-      "trend30": 45,
+      "value": 561,
+      "trend30": -60,
       "posRank": 38,
-      "rankDelta": null,
+      "rankDelta": -22,
       "inTop100": false,
       "cards": [
         {
@@ -4775,7 +4813,7 @@
       ]
     },
     {
-      "rank": 249,
+      "rank": 258,
       "name": "Shedeur Sanders",
       "pos": "QB",
       "team": "CLE",
@@ -4783,10 +4821,10 @@
       "draftYear": 2025,
       "draftRound": 5,
       "draftPick": 6,
-      "value": 398,
-      "trend30": -219,
+      "value": 339,
+      "trend30": -209,
       "posRank": 43,
-      "rankDelta": null,
+      "rankDelta": -6,
       "inTop100": false,
       "cards": [
         {
@@ -4837,57 +4875,7 @@
       ]
     },
     {
-      "rank": 252,
-      "name": "Tyrone Tracy",
-      "pos": "RB",
-      "team": "NYG",
-      "age": 26.8,
-      "draftYear": 2024,
-      "draftRound": 5,
-      "draftPick": 31,
-      "value": 385,
-      "trend30": -761,
-      "posRank": 72,
-      "rankDelta": null,
-      "inTop100": false,
-      "cards": [
-        {
-          "product": "prizm-silver",
-          "label": "Prizm Silver",
-          "blurb": "Rookie Silver Prizm",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "optic-holo",
-          "label": "Optic Holo",
-          "blurb": "Holo Rated Rookie",
-          "status": "missing",
-          "comp": null
-        },
-        {
-          "product": "contenders-silver-auto",
-          "label": "Contenders Auto",
-          "blurb": "Optic silver autograph",
-          "status": "comp",
-          "comp": {
-            "year": 2024,
-            "set": "2024 Contenders Optic",
-            "parallel": "Rookie Ticket Autograph Silver",
-            "number": "166",
-            "raw": 9.88,
-            "psa9": 24.99,
-            "psa10": 30,
-            "gemRate": null,
-            "gems": null,
-            "pop": null,
-            "popAsOf": null
-          }
-        }
-      ]
-    },
-    {
-      "rank": 270,
+      "rank": 262,
       "name": "Anthony Richardson",
       "pos": "QB",
       "team": "IND",
@@ -4895,10 +4883,10 @@
       "draftYear": 2023,
       "draftRound": 1,
       "draftPick": 4,
-      "value": 300,
-      "trend30": -130,
-      "posRank": 45,
-      "rankDelta": null,
+      "value": 321,
+      "trend30": -30,
+      "posRank": 44,
+      "rankDelta": 4,
       "inTop100": false,
       "cards": [
         {
@@ -4937,7 +4925,57 @@
       ]
     },
     {
-      "rank": 293,
+      "rank": 275,
+      "name": "Tyrone Tracy",
+      "pos": "RB",
+      "team": "NYG",
+      "age": 26.8,
+      "draftYear": 2024,
+      "draftRound": 5,
+      "draftPick": 31,
+      "value": 267,
+      "trend30": -831,
+      "posRank": 80,
+      "rankDelta": -16,
+      "inTop100": false,
+      "cards": [
+        {
+          "product": "prizm-silver",
+          "label": "Prizm Silver",
+          "blurb": "Rookie Silver Prizm",
+          "status": "missing",
+          "comp": null
+        },
+        {
+          "product": "optic-holo",
+          "label": "Optic Holo",
+          "blurb": "Holo Rated Rookie",
+          "status": "missing",
+          "comp": null
+        },
+        {
+          "product": "contenders-silver-auto",
+          "label": "Contenders Auto",
+          "blurb": "Optic silver autograph",
+          "status": "comp",
+          "comp": {
+            "year": 2024,
+            "set": "2024 Contenders Optic",
+            "parallel": "Rookie Ticket Autograph Silver",
+            "number": "166",
+            "raw": 9.88,
+            "psa9": 24.99,
+            "psa10": 30,
+            "gemRate": null,
+            "gems": null,
+            "pop": null,
+            "popAsOf": null
+          }
+        }
+      ]
+    },
+    {
+      "rank": 307,
       "name": "Xavier Legette",
       "pos": "WR",
       "team": "CAR",
@@ -4945,10 +4983,10 @@
       "draftYear": 2024,
       "draftRound": 1,
       "draftPick": 32,
-      "value": 190,
-      "trend30": -123,
-      "posRank": 116,
-      "rankDelta": null,
+      "value": 174,
+      "trend30": -227,
+      "posRank": 121,
+      "rankDelta": -13,
       "inTop100": false,
       "cards": [
         {
