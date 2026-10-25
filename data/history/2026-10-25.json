@@ -1,0 +1,1589 @@
+{
+  "date": "2026-10-25",
+  "ranks": {
+    "jahmyr gibbs": {
+      "rank": 1,
+      "value": 11103
+    },
+    "bijan robinson": {
+      "rank": 2,
+      "value": 10634
+    },
+    "jaxon smith njigba": {
+      "rank": 3,
+      "value": 9434
+    },
+    "jamarr chase": {
+      "rank": 4,
+      "value": 8004
+    },
+    "puka nacua": {
+      "rank": 5,
+      "value": 7723
+    },
+    "kenneth walker": {
+      "rank": 6,
+      "value": 7414
+    },
+    "amon ra st brown": {
+      "rank": 7,
+      "value": 7287
+    },
+    "brock bowers": {
+      "rank": 8,
+      "value": 6857
+    },
+    "malik nabers": {
+      "rank": 9,
+      "value": 6465
+    },
+    "ceedee lamb": {
+      "rank": 10,
+      "value": 6420
+    },
+    "jonathan taylor": {
+      "rank": 11,
+      "value": 6322
+    },
+    "justin jefferson": {
+      "rank": 12,
+      "value": 6236
+    },
+    "ashton jeanty": {
+      "rank": 13,
+      "value": 5970
+    },
+    "trey mcbride": {
+      "rank": 14,
+      "value": 5758
+    },
+    "james cook": {
+      "rank": 15,
+      "value": 5665
+    },
+    "jeremiyah love": {
+      "rank": 16,
+      "value": 5609
+    },
+    "josh allen": {
+      "rank": 17,
+      "value": 5563
+    },
+    "drake london": {
+      "rank": 18,
+      "value": 5190
+    },
+    "chris olave": {
+      "rank": 19,
+      "value": 4965
+    },
+    "zay flowers": {
+      "rank": 20,
+      "value": 4732
+    },
+    "christian mccaffrey": {
+      "rank": 21,
+      "value": 4675
+    },
+    "tetairoa mcmillan": {
+      "rank": 22,
+      "value": 4660
+    },
+    "kyren williams": {
+      "rank": 23,
+      "value": 4652
+    },
+    "nico collins": {
+      "rank": 24,
+      "value": 4520
+    },
+    "garrett wilson": {
+      "rank": 25,
+      "value": 4359
+    },
+    "parker washington": {
+      "rank": 26,
+      "value": 4180
+    },
+    "devon achane": {
+      "rank": 27,
+      "value": 4047
+    },
+    "matthew golden": {
+      "rank": 28,
+      "value": 3919
+    },
+    "bucky irving": {
+      "rank": 29,
+      "value": 3888
+    },
+    "javonte williams": {
+      "rank": 30,
+      "value": 3881
+    },
+    "breece hall": {
+      "rank": 31,
+      "value": 3847
+    },
+    "caleb williams": {
+      "rank": 32,
+      "value": 3817
+    },
+    "drake maye": {
+      "rank": 33,
+      "value": 3717
+    },
+    "derrick henry": {
+      "rank": 34,
+      "value": 3710
+    },
+    "bhayshul tuten": {
+      "rank": 35,
+      "value": 3655
+    },
+    "george pickens": {
+      "rank": 36,
+      "value": 3653
+    },
+    "tyler warren": {
+      "rank": 37,
+      "value": 3652
+    },
+    "christian watson": {
+      "rank": 38,
+      "value": 3639
+    },
+    "chase brown": {
+      "rank": 39,
+      "value": 3553
+    },
+    "lamar jackson": {
+      "rank": 40,
+      "value": 3536
+    },
+    "omarion hampton": {
+      "rank": 41,
+      "value": 3489
+    },
+    "carnell tate": {
+      "rank": 42,
+      "value": 3486
+    },
+    "colston loveland": {
+      "rank": 43,
+      "value": 3478
+    },
+    "luther burden": {
+      "rank": 44,
+      "value": 3359
+    },
+    "chuba hubbard": {
+      "rank": 45,
+      "value": 3348
+    },
+    "tee higgins": {
+      "rank": 46,
+      "value": 3332
+    },
+    "emeka egbuka": {
+      "rank": 47,
+      "value": 3316
+    },
+    "joe burrow": {
+      "rank": 48,
+      "value": 3281
+    },
+    "dandre swift": {
+      "rank": 49,
+      "value": 3279
+    },
+    "brock purdy": {
+      "rank": 50,
+      "value": 3256
+    },
+    "saquon barkley": {
+      "rank": 51,
+      "value": 3120
+    },
+    "sam laporta": {
+      "rank": 52,
+      "value": 3119
+    },
+    "trevor lawrence": {
+      "rank": 53,
+      "value": 3106
+    },
+    "quinshon judkins": {
+      "rank": 54,
+      "value": 3102
+    },
+    "jordyn tyson": {
+      "rank": 55,
+      "value": 3101
+    },
+    "devonta smith": {
+      "rank": 56,
+      "value": 3006
+    },
+    "aj brown": {
+      "rank": 57,
+      "value": 2972
+    },
+    "isaiah likely": {
+      "rank": 58,
+      "value": 2929
+    },
+    "josh jacobs": {
+      "rank": 59,
+      "value": 2872
+    },
+    "patrick mahomes": {
+      "rank": 60,
+      "value": 2861
+    },
+    "jayden daniels": {
+      "rank": 61,
+      "value": 2836
+    },
+    "jalen coker": {
+      "rank": 62,
+      "value": 2810
+    },
+    "jaylen warren": {
+      "rank": 63,
+      "value": 2759
+    },
+    "rashee rice": {
+      "rank": 64,
+      "value": 2676
+    },
+    "denzel boston": {
+      "rank": 65,
+      "value": 2635
+    },
+    "tucker kraft": {
+      "rank": 66,
+      "value": 2622
+    },
+    "jadarian price": {
+      "rank": 67,
+      "value": 2517
+    },
+    "treveyon henderson": {
+      "rank": 68,
+      "value": 2490
+    },
+    "ladd mcconkey": {
+      "rank": 69,
+      "value": 2470
+    },
+    "cam skattebo": {
+      "rank": 70,
+      "value": 2458
+    },
+    "george kittle": {
+      "rank": 71,
+      "value": 2436
+    },
+    "michael wilson": {
+      "rank": 72,
+      "value": 2431
+    },
+    "jordan love": {
+      "rank": 73,
+      "value": 2429
+    },
+    "cj stroud": {
+      "rank": 74,
+      "value": 2316
+    },
+    "bryce young": {
+      "rank": 75,
+      "value": 2315
+    },
+    "makai lemon": {
+      "rank": 76,
+      "value": 2295
+    },
+    "germie bernard": {
+      "rank": 77,
+      "value": 2292
+    },
+    "jameson williams": {
+      "rank": 78,
+      "value": 2278
+    },
+    "kc concepcion": {
+      "rank": 79,
+      "value": 2261
+    },
+    "rome odunze": {
+      "rank": 80,
+      "value": 2229
+    },
+    "marvin harrison": {
+      "rank": 81,
+      "value": 2202
+    },
+    "harold fannin": {
+      "rank": 82,
+      "value": 2193
+    },
+    "jaylen waddle": {
+      "rank": 83,
+      "value": 2188
+    },
+    "omar cooper": {
+      "rank": 84,
+      "value": 2172
+    },
+    "kenyon sadiq": {
+      "rank": 85,
+      "value": 2124
+    },
+    "kyle monangai": {
+      "rank": 86,
+      "value": 2086
+    },
+    "jaxson dart": {
+      "rank": 87,
+      "value": 2074
+    },
+    "dj moore": {
+      "rank": 88,
+      "value": 2068
+    },
+    "travis etienne": {
+      "rank": 89,
+      "value": 2063
+    },
+    "jared goff": {
+      "rank": 90,
+      "value": 2062
+    },
+    "jonah coleman": {
+      "rank": 91,
+      "value": 2059
+    },
+    "fernando mendoza": {
+      "rank": 92,
+      "value": 2057
+    },
+    "justin herbert": {
+      "rank": 93,
+      "value": 2032
+    },
+    "ollie gordon": {
+      "rank": 94,
+      "value": 2030
+    },
+    "tyler shough": {
+      "rank": 95,
+      "value": 2019
+    },
+    "mike evans": {
+      "rank": 96,
+      "value": 2010
+    },
+    "kyle pitts": {
+      "rank": 97,
+      "value": 1983
+    },
+    "dk metcalf": {
+      "rank": 98,
+      "value": 1978
+    },
+    "brian thomas": {
+      "rank": 99,
+      "value": 1947
+    },
+    "dak prescott": {
+      "rank": 100,
+      "value": 1947
+    },
+    "zach charbonnet": {
+      "rank": 101,
+      "value": 1941
+    },
+    "rj harvey": {
+      "rank": 102,
+      "value": 1905
+    },
+    "rhamondre stevenson": {
+      "rank": 103,
+      "value": 1900
+    },
+    "blake corum": {
+      "rank": 104,
+      "value": 1868
+    },
+    "dalton kincaid": {
+      "rank": 105,
+      "value": 1862
+    },
+    "dezhaun stribling": {
+      "rank": 106,
+      "value": 1858
+    },
+    "davante adams": {
+      "rank": 107,
+      "value": 1846
+    },
+    "jalen hurts": {
+      "rank": 108,
+      "value": 1809
+    },
+    "woody marks": {
+      "rank": 109,
+      "value": 1734
+    },
+    "xavier worthy": {
+      "rank": 110,
+      "value": 1729
+    },
+    "bo nix": {
+      "rank": 111,
+      "value": 1720
+    },
+    "braelon allen": {
+      "rank": 112,
+      "value": 1704
+    },
+    "jordan addison": {
+      "rank": 113,
+      "value": 1703
+    },
+    "alec pierce": {
+      "rank": 114,
+      "value": 1687
+    },
+    "brenton strange": {
+      "rank": 115,
+      "value": 1675
+    },
+    "mike washington": {
+      "rank": 116,
+      "value": 1671
+    },
+    "antonio williams": {
+      "rank": 117,
+      "value": 1652
+    },
+    "emmett johnson": {
+      "rank": 118,
+      "value": 1607
+    },
+    "travis hunter": {
+      "rank": 119,
+      "value": 1589
+    },
+    "terrance ferguson": {
+      "rank": 120,
+      "value": 1582
+    },
+    "travis kelce": {
+      "rank": 121,
+      "value": 1558
+    },
+    "aaron jones": {
+      "rank": 122,
+      "value": 1543
+    },
+    "jordan mason": {
+      "rank": 123,
+      "value": 1537
+    },
+    "stefon diggs": {
+      "rank": 124,
+      "value": 1519
+    },
+    "jakobi lane": {
+      "rank": 125,
+      "value": 1509
+    },
+    "josh downs": {
+      "rank": 126,
+      "value": 1501
+    },
+    "kaelon black": {
+      "rank": 127,
+      "value": 1487
+    },
+    "david montgomery": {
+      "rank": 128,
+      "value": 1462
+    },
+    "tony pollard": {
+      "rank": 129,
+      "value": 1442
+    },
+    "jacory croskey merritt": {
+      "rank": 130,
+      "value": 1428
+    },
+    "jk dobbins": {
+      "rank": 131,
+      "value": 1427
+    },
+    "matthew stafford": {
+      "rank": 132,
+      "value": 1418
+    },
+    "jayden higgins": {
+      "rank": 133,
+      "value": 1411
+    },
+    "wandale robinson": {
+      "rank": 134,
+      "value": 1402
+    },
+    "keon coleman": {
+      "rank": 135,
+      "value": 1395
+    },
+    "sam darnold": {
+      "rank": 136,
+      "value": 1394
+    },
+    "chris bell": {
+      "rank": 137,
+      "value": 1370
+    },
+    "jonathon brooks": {
+      "rank": 138,
+      "value": 1363
+    },
+    "baker mayfield": {
+      "rank": 139,
+      "value": 1346
+    },
+    "dallas goedert": {
+      "rank": 140,
+      "value": 1346
+    },
+    "kyler murray": {
+      "rank": 141,
+      "value": 1340
+    },
+    "eli stowers": {
+      "rank": 142,
+      "value": 1333
+    },
+    "jakobi meyers": {
+      "rank": 143,
+      "value": 1329
+    },
+    "eli raridon": {
+      "rank": 144,
+      "value": 1327
+    },
+    "tre tucker": {
+      "rank": 145,
+      "value": 1325
+    },
+    "juwan johnson": {
+      "rank": 146,
+      "value": 1325
+    },
+    "rachaad white": {
+      "rank": 147,
+      "value": 1294
+    },
+    "ricky pearsall": {
+      "rank": 148,
+      "value": 1292
+    },
+    "chig okonkwo": {
+      "rank": 149,
+      "value": 1288
+    },
+    "deebo samuel": {
+      "rank": 150,
+      "value": 1288
+    },
+    "romeo doubs": {
+      "rank": 151,
+      "value": 1279
+    },
+    "rico dowdle": {
+      "rank": 152,
+      "value": 1270
+    },
+    "tj hockenson": {
+      "rank": 153,
+      "value": 1260
+    },
+    "jayden reed": {
+      "rank": 154,
+      "value": 1253
+    },
+    "malik washington": {
+      "rank": 155,
+      "value": 1252
+    },
+    "malachi fields": {
+      "rank": 156,
+      "value": 1249
+    },
+    "tyler allgeier": {
+      "rank": 157,
+      "value": 1249
+    },
+    "pat bryant": {
+      "rank": 158,
+      "value": 1230
+    },
+    "michael mayer": {
+      "rank": 159,
+      "value": 1227
+    },
+    "brian robinson": {
+      "rank": 160,
+      "value": 1224
+    },
+    "caleb douglas": {
+      "rank": 161,
+      "value": 1219
+    },
+    "jaylin noel": {
+      "rank": 162,
+      "value": 1216
+    },
+    "seth mcgowan": {
+      "rank": 163,
+      "value": 1215
+    },
+    "chris godwin": {
+      "rank": 164,
+      "value": 1206
+    },
+    "terry mclaurin": {
+      "rank": 165,
+      "value": 1189
+    },
+    "michael penix": {
+      "rank": 166,
+      "value": 1188
+    },
+    "tank dell": {
+      "rank": 167,
+      "value": 1181
+    },
+    "khalil shakir": {
+      "rank": 168,
+      "value": 1181
+    },
+    "cam ward": {
+      "rank": 169,
+      "value": 1179
+    },
+    "nicholas singleton": {
+      "rank": 170,
+      "value": 1178
+    },
+    "alvin kamara": {
+      "rank": 171,
+      "value": 1178
+    },
+    "ted hurst": {
+      "rank": 172,
+      "value": 1177
+    },
+    "dylan sampson": {
+      "rank": 173,
+      "value": 1177
+    },
+    "jake ferguson": {
+      "rank": 174,
+      "value": 1176
+    },
+    "quentin johnston": {
+      "rank": 175,
+      "value": 1171
+    },
+    "adonai mitchell": {
+      "rank": 176,
+      "value": 1168
+    },
+    "courtland sutton": {
+      "rank": 177,
+      "value": 1162
+    },
+    "devaughn vele": {
+      "rank": 178,
+      "value": 1158
+    },
+    "emanuel wilson": {
+      "rank": 179,
+      "value": 1147
+    },
+    "pat freiermuth": {
+      "rank": 180,
+      "value": 1135
+    },
+    "ty simpson": {
+      "rank": 181,
+      "value": 1116
+    },
+    "hunter henry": {
+      "rank": 182,
+      "value": 1116
+    },
+    "tyjae spears": {
+      "rank": 183,
+      "value": 1096
+    },
+    "rashid shaheed": {
+      "rank": 184,
+      "value": 1086
+    },
+    "aj barner": {
+      "rank": 185,
+      "value": 1085
+    },
+    "cyrus allen": {
+      "rank": 186,
+      "value": 1075
+    },
+    "tyrone tracy": {
+      "rank": 187,
+      "value": 1069
+    },
+    "oronde gadsden": {
+      "rank": 188,
+      "value": 1068
+    },
+    "keenan allen": {
+      "rank": 189,
+      "value": 1063
+    },
+    "mark andrews": {
+      "rank": 190,
+      "value": 1062
+    },
+    "kenny gainwell": {
+      "rank": 191,
+      "value": 1044
+    },
+    "keaton mitchell": {
+      "rank": 192,
+      "value": 1028
+    },
+    "tre harris": {
+      "rank": 193,
+      "value": 1026
+    },
+    "dontayvion wicks": {
+      "rank": 194,
+      "value": 1009
+    },
+    "kendre miller": {
+      "rank": 195,
+      "value": 997
+    },
+    "jj mccarthy": {
+      "rank": 196,
+      "value": 972
+    },
+    "malik willis": {
+      "rank": 197,
+      "value": 967
+    },
+    "ryan flournoy": {
+      "rank": 198,
+      "value": 963
+    },
+    "tyler higbee": {
+      "rank": 199,
+      "value": 956
+    },
+    "deshaun watson": {
+      "rank": 200,
+      "value": 923
+    },
+    "konata mumpfield": {
+      "rank": 201,
+      "value": 921
+    },
+    "chris rodriguez": {
+      "rank": 202,
+      "value": 920
+    },
+    "marshawn lloyd": {
+      "rank": 203,
+      "value": 916
+    },
+    "daniel jones": {
+      "rank": 204,
+      "value": 911
+    },
+    "roman wilson": {
+      "rank": 205,
+      "value": 903
+    },
+    "kendrick bourne": {
+      "rank": 206,
+      "value": 902
+    },
+    "dameon pierce": {
+      "rank": 207,
+      "value": 887
+    },
+    "jerry jeudy": {
+      "rank": 208,
+      "value": 879
+    },
+    "christian kirk": {
+      "rank": 209,
+      "value": 867
+    },
+    "kirk cousins": {
+      "rank": 210,
+      "value": 867
+    },
+    "aaron rodgers": {
+      "rank": 211,
+      "value": 855
+    },
+    "demario douglas": {
+      "rank": 212,
+      "value": 848
+    },
+    "michael pittman": {
+      "rank": 213,
+      "value": 845
+    },
+    "mike gesicki": {
+      "rank": 214,
+      "value": 832
+    },
+    "zachariah branch": {
+      "rank": 215,
+      "value": 826
+    },
+    "jacoby brissett": {
+      "rank": 216,
+      "value": 804
+    },
+    "kimani vidal": {
+      "rank": 217,
+      "value": 797
+    },
+    "geno smith": {
+      "rank": 218,
+      "value": 786
+    },
+    "darius cooper": {
+      "rank": 219,
+      "value": 782
+    },
+    "dalton schultz": {
+      "rank": 220,
+      "value": 757
+    },
+    "carson beck": {
+      "rank": 221,
+      "value": 738
+    },
+    "tank bigsby": {
+      "rank": 222,
+      "value": 733
+    },
+    "isaac teslaa": {
+      "rank": 223,
+      "value": 724
+    },
+    "josh cameron": {
+      "rank": 224,
+      "value": 706
+    },
+    "tyreek hill": {
+      "rank": 225,
+      "value": 688
+    },
+    "cade otton": {
+      "rank": 226,
+      "value": 629
+    },
+    "tanner mckee": {
+      "rank": 227,
+      "value": 622
+    },
+    "jalen mcmillan": {
+      "rank": 228,
+      "value": 608
+    },
+    "roschon johnson": {
+      "rank": 229,
+      "value": 588
+    },
+    "chris brazzell": {
+      "rank": 230,
+      "value": 586
+    },
+    "samaje perine": {
+      "rank": 231,
+      "value": 585
+    },
+    "jalon daniels": {
+      "rank": 232,
+      "value": 578
+    },
+    "darren waller": {
+      "rank": 233,
+      "value": 575
+    },
+    "jaylen wright": {
+      "rank": 234,
+      "value": 546
+    },
+    "tyler huntley": {
+      "rank": 235,
+      "value": 539
+    },
+    "cooper kupp": {
+      "rank": 236,
+      "value": 539
+    },
+    "skyler bell": {
+      "rank": 237,
+      "value": 537
+    },
+    "darnell washington": {
+      "rank": 238,
+      "value": 535
+    },
+    "rashod bateman": {
+      "rank": 239,
+      "value": 528
+    },
+    "efton chism": {
+      "rank": 240,
+      "value": 503
+    },
+    "mac jones": {
+      "rank": 241,
+      "value": 502
+    },
+    "demond claiborne": {
+      "rank": 242,
+      "value": 484
+    },
+    "drew allar": {
+      "rank": 243,
+      "value": 476
+    },
+    "jahan dotson": {
+      "rank": 244,
+      "value": 476
+    },
+    "adam randall": {
+      "rank": 245,
+      "value": 472
+    },
+    "gunnar helm": {
+      "rank": 246,
+      "value": 469
+    },
+    "kaleb johnson": {
+      "rank": 247,
+      "value": 467
+    },
+    "elijah sarratt": {
+      "rank": 248,
+      "value": 459
+    },
+    "zonovan knight": {
+      "rank": 249,
+      "value": 448
+    },
+    "jauan jennings": {
+      "rank": 250,
+      "value": 428
+    },
+    "kyle williams": {
+      "rank": 251,
+      "value": 425
+    },
+    "jack bech": {
+      "rank": 252,
+      "value": 418
+    },
+    "kayshon boutte": {
+      "rank": 253,
+      "value": 417
+    },
+    "mason taylor": {
+      "rank": 254,
+      "value": 400
+    },
+    "tory horton": {
+      "rank": 255,
+      "value": 399
+    },
+    "anthony richardson": {
+      "rank": 256,
+      "value": 399
+    },
+    "dohnte meyers": {
+      "rank": 257,
+      "value": 398
+    },
+    "troy franklin": {
+      "rank": 258,
+      "value": 386
+    },
+    "shedeur sanders": {
+      "rank": 259,
+      "value": 381
+    },
+    "elic ayomanor": {
+      "rank": 260,
+      "value": 367
+    },
+    "greg dulcich": {
+      "rank": 261,
+      "value": 363
+    },
+    "james conner": {
+      "rank": 262,
+      "value": 359
+    },
+    "oscar delp": {
+      "rank": 263,
+      "value": 350
+    },
+    "treylon burks": {
+      "rank": 264,
+      "value": 349
+    },
+    "colby parkinson": {
+      "rank": 265,
+      "value": 343
+    },
+    "bryce lance": {
+      "rank": 266,
+      "value": 342
+    },
+    "isiah pacheco": {
+      "rank": 267,
+      "value": 341
+    },
+    "george holani": {
+      "rank": 268,
+      "value": 336
+    },
+    "kaytron allen": {
+      "rank": 269,
+      "value": 332
+    },
+    "jameis winston": {
+      "rank": 270,
+      "value": 327
+    },
+    "matt hibner": {
+      "rank": 271,
+      "value": 324
+    },
+    "jalen royals": {
+      "rank": 272,
+      "value": 321
+    },
+    "joe milton": {
+      "rank": 273,
+      "value": 315
+    },
+    "max klare": {
+      "rank": 274,
+      "value": 307
+    },
+    "kalif raymond": {
+      "rank": 275,
+      "value": 305
+    },
+    "kevin coleman": {
+      "rank": 276,
+      "value": 304
+    },
+    "justice hill": {
+      "rank": 277,
+      "value": 303
+    },
+    "brandin cooks": {
+      "rank": 278,
+      "value": 301
+    },
+    "raheim sanders": {
+      "rank": 279,
+      "value": 296
+    },
+    "zavion thomas": {
+      "rank": 280,
+      "value": 287
+    },
+    "jalen nailor": {
+      "rank": 281,
+      "value": 286
+    },
+    "savion williams": {
+      "rank": 282,
+      "value": 284
+    },
+    "tez johnson": {
+      "rank": 283,
+      "value": 275
+    },
+    "elijah arroyo": {
+      "rank": 284,
+      "value": 266
+    },
+    "ray davis": {
+      "rank": 285,
+      "value": 264
+    },
+    "corey kiner": {
+      "rank": 286,
+      "value": 261
+    },
+    "cj donaldson": {
+      "rank": 287,
+      "value": 261
+    },
+    "sean tucker": {
+      "rank": 288,
+      "value": 257
+    },
+    "will shipley": {
+      "rank": 289,
+      "value": 253
+    },
+    "jaleel mclaughlin": {
+      "rank": 290,
+      "value": 250
+    },
+    "austin ekeler": {
+      "rank": 291,
+      "value": 250
+    },
+    "brandon aiyuk": {
+      "rank": 292,
+      "value": 248
+    },
+    "josh cuevas": {
+      "rank": 293,
+      "value": 241
+    },
+    "cade klubnik": {
+      "rank": 294,
+      "value": 237
+    },
+    "evan engram": {
+      "rank": 295,
+      "value": 234
+    },
+    "trey benson": {
+      "rank": 296,
+      "value": 229
+    },
+    "tua tagovailoa": {
+      "rank": 297,
+      "value": 226
+    },
+    "xavier legette": {
+      "rank": 298,
+      "value": 203
+    },
+    "calvin ridley": {
+      "rank": 299,
+      "value": 195
+    },
+    "trevor etienne": {
+      "rank": 300,
+      "value": 193
+    },
+    "xavier hutchinson": {
+      "rank": 301,
+      "value": 189
+    },
+    "drew lock": {
+      "rank": 302,
+      "value": 188
+    },
+    "najee harris": {
+      "rank": 303,
+      "value": 187
+    },
+    "devin singletary": {
+      "rank": 304,
+      "value": 186
+    },
+    "tyquan thornton": {
+      "rank": 305,
+      "value": 179
+    },
+    "isaiah bond": {
+      "rank": 306,
+      "value": 179
+    },
+    "barion brown": {
+      "rank": 307,
+      "value": 174
+    },
+    "cole kmet": {
+      "rank": 308,
+      "value": 172
+    },
+    "sam roush": {
+      "rank": 309,
+      "value": 167
+    },
+    "justin fields": {
+      "rank": 310,
+      "value": 167
+    },
+    "sione vaki": {
+      "rank": 311,
+      "value": 166
+    },
+    "lequint allen": {
+      "rank": 312,
+      "value": 160
+    },
+    "carson wentz": {
+      "rank": 313,
+      "value": 153
+    },
+    "tommy tremble": {
+      "rank": 314,
+      "value": 153
+    },
+    "jordan watkins": {
+      "rank": 315,
+      "value": 150
+    },
+    "joe mixon": {
+      "rank": 316,
+      "value": 144
+    },
+    "isaiah davis": {
+      "rank": 317,
+      "value": 141
+    },
+    "theo johnson": {
+      "rank": 318,
+      "value": 141
+    },
+    "tyler goodson": {
+      "rank": 319,
+      "value": 125
+    },
+    "isaiah williams": {
+      "rank": 320,
+      "value": 125
+    },
+    "reggie virgil": {
+      "rank": 321,
+      "value": 124
+    },
+    "mack hollins": {
+      "rank": 322,
+      "value": 121
+    },
+    "cole payton": {
+      "rank": 323,
+      "value": 120
+    },
+    "dj giddens": {
+      "rank": 324,
+      "value": 120
+    },
+    "pierre strong": {
+      "rank": 325,
+      "value": 119
+    },
+    "marlin klein": {
+      "rank": 326,
+      "value": 118
+    },
+    "jaylin lane": {
+      "rank": 327,
+      "value": 112
+    },
+    "jalen milroe": {
+      "rank": 328,
+      "value": 112
+    },
+    "eli heidenreich": {
+      "rank": 329,
+      "value": 111
+    },
+    "justin joly": {
+      "rank": 330,
+      "value": 109
+    },
+    "malik davis": {
+      "rank": 331,
+      "value": 106
+    },
+    "jacob saylors": {
+      "rank": 332,
+      "value": 104
+    },
+    "noah fant": {
+      "rank": 333,
+      "value": 104
+    },
+    "tyson bagent": {
+      "rank": 334,
+      "value": 103
+    },
+    "joe flacco": {
+      "rank": 335,
+      "value": 101
+    },
+    "marcus mariota": {
+      "rank": 336,
+      "value": 101
+    },
+    "cody white": {
+      "rank": 337,
+      "value": 99
+    },
+    "noah gray": {
+      "rank": 338,
+      "value": 98
+    },
+    "jake tonges": {
+      "rank": 339,
+      "value": 98
+    },
+    "will howard": {
+      "rank": 340,
+      "value": 96
+    },
+    "david njoku": {
+      "rank": 341,
+      "value": 96
+    },
+    "marvin mims": {
+      "rank": 342,
+      "value": 94
+    },
+    "cj daniels": {
+      "rank": 343,
+      "value": 90
+    },
+    "kavontae turpin": {
+      "rank": 344,
+      "value": 87
+    },
+    "colbie young": {
+      "rank": 345,
+      "value": 80
+    },
+    "ty johnson": {
+      "rank": 346,
+      "value": 80
+    },
+    "nate boerkircher": {
+      "rank": 347,
+      "value": 79
+    },
+    "deion burks": {
+      "rank": 348,
+      "value": 76
+    },
+    "jordan james": {
+      "rank": 349,
+      "value": 75
+    },
+    "quinn ewers": {
+      "rank": 350,
+      "value": 69
+    },
+    "malik benson": {
+      "rank": 351,
+      "value": 68
+    },
+    "jatavion sanders": {
+      "rank": 352,
+      "value": 68
+    },
+    "john metchie": {
+      "rank": 353,
+      "value": 68
+    },
+    "charlie kolar": {
+      "rank": 354,
+      "value": 66
+    },
+    "jordan whittington": {
+      "rank": 355,
+      "value": 64
+    },
+    "riley leonard": {
+      "rank": 356,
+      "value": 64
+    },
+    "brenen thompson": {
+      "rank": 357,
+      "value": 62
+    },
+    "chimere dike": {
+      "rank": 358,
+      "value": 62
+    },
+    "andrei iosivas": {
+      "rank": 359,
+      "value": 57
+    },
+    "sam howell": {
+      "rank": 360,
+      "value": 56
+    },
+    "jack endries": {
+      "rank": 361,
+      "value": 56
+    },
+    "donte thornton": {
+      "rank": 362,
+      "value": 56
+    },
+    "athan kaliakmanis": {
+      "rank": 363,
+      "value": 55
+    },
+    "jaydon blue": {
+      "rank": 364,
+      "value": 54
+    },
+    "joshua palmer": {
+      "rank": 365,
+      "value": 52
+    },
+    "jacob cowing": {
+      "rank": 366,
+      "value": 51
+    },
+    "brycen tremayne": {
+      "rank": 367,
+      "value": 50
+    },
+    "jalen tolbert": {
+      "rank": 368,
+      "value": 49
+    },
+    "ben sinnott": {
+      "rank": 369,
+      "value": 48
+    },
+    "will kacmarek": {
+      "rank": 370,
+      "value": 47
+    },
+    "devontez walker": {
+      "rank": 371,
+      "value": 46
+    },
+    "garrett nussmeier": {
+      "rank": 372,
+      "value": 46
+    },
+    "spencer rattler": {
+      "rank": 373,
+      "value": 46
+    },
+    "davis mills": {
+      "rank": 374,
+      "value": 44
+    },
+    "taylen green": {
+      "rank": 375,
+      "value": 43
+    },
+    "tanner koziol": {
+      "rank": 376,
+      "value": 36
+    },
+    "calvin austin": {
+      "rank": 377,
+      "value": 35
+    },
+    "darnell mooney": {
+      "rank": 378,
+      "value": 34
+    },
+    "khalil herbert": {
+      "rank": 379,
+      "value": 28
+    },
+    "tyrod taylor": {
+      "rank": 380,
+      "value": 28
+    },
+    "will levis": {
+      "rank": 381,
+      "value": 24
+    },
+    "mitchell trubisky": {
+      "rank": 382,
+      "value": 22
+    },
+    "dillon gabriel": {
+      "rank": 383,
+      "value": 19
+    },
+    "trey lance": {
+      "rank": 384,
+      "value": 17
+    },
+    "tai felton": {
+      "rank": 385,
+      "value": 17
+    },
+    "joe royer": {
+      "rank": 386,
+      "value": 16
+    },
+    "laquon treadwell": {
+      "rank": 387,
+      "value": 15
+    },
+    "jarrett stidham": {
+      "rank": 388,
+      "value": 15
+    },
+    "brevyn spann ford": {
+      "rank": 389,
+      "value": 14
+    },
+    "foster moreau": {
+      "rank": 390,
+      "value": 12
+    },
+    "jawhar jordan": {
+      "rank": 391,
+      "value": 11
+    },
+    "erick all": {
+      "rank": 392,
+      "value": 10
+    },
+    "gardner minshew": {
+      "rank": 393,
+      "value": 10
+    },
+    "jonnu smith": {
+      "rank": 394,
+      "value": 10
+    },
+    "case keenum": {
+      "rank": 395,
+      "value": 8
+    },
+    "jeremy ruckert": {
+      "rank": 396,
+      "value": 1
+    }
+  }
+}
